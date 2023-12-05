@@ -1,35 +1,25 @@
-README
+ARU data processing on BirdNET for Birds Canada
 ================
 Sunny Tseng
 2023-12-05
 
-## R Markdown
+## Introduction
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+## About
 
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+## Expected timeline
 
-``` r
-summary(cars)
-```
+## BirdNET settings
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+## Output format
 
-## Including Plots
+## Processing schedule
 
-You can also embed plots, for example:
-
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+| Site            | Location | ARU ID | Type   | Date   | Time          | Output final csv |
+|-----------------|----------|--------|--------|--------|---------------|------------------|
+| Axe Lake        | 1        | 9126   | BAR-LT | Dec.04 | 17:10 - 20:46 |                  |
+| Axe Lake        | 2        | 7859   | Mini   | Dec.04 | 21:20 - 22:30 |                  |
+| Baptiste Meadow | 1        | 9742   | BAR-LT | Dec.04 | 22:40 -       |                  |
+| Baptiste Meadow | 2        | 9441   | Mini   | Dec.04 |               |                  |
+|                 |          |        |        |        |               |                  |
+|                 |          |        |        |        |               |                  |
