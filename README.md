@@ -1,15 +1,38 @@
 ARU data processing on BirdNET for Birds Canada
 ================
 Sunny Tseng
-2023-12-06
 
 ## Introduction
 
+The ARU data was collected by Birds Canada during 2023 breeding season
+in the area of Chilcotin, Cariboo, BC, Canada. A total of 21 sites were
+set up, with each site having 2 ARU locations. The goal of this
+repository is to analyzing all the ARU recordings that collected from
+this project through BirdNET, and provide detection information for each
+of the ARU.
+
 ## About
+
+BirdNET Analyzer GUI on Windows
+
+Model: BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile
 
 ## Workflow
 
-## BirdNET settings
+## BirdNET Analyzer GUI settings
+
+- Species by location tab
+  - latitude: 51 or 52, base on site location
+  - longitude: -121 or -122, base on site location
+  - week: 24, mid June
+- Inference settings
+  - Minimum confidence: 0.5 (default)
+  - Sensitivity: 1 (default)
+  - Overlap: 0 (default)
+- Other settings
+  - Result type: R
+  - Batch size: 4
+  - Threads: 4
 
 ## Output format
 
