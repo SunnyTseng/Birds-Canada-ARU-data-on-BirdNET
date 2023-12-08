@@ -74,6 +74,6 @@ model version that used in the GUI is
 | Baptiste Meadow   | 1        | 9742   | BAR-LT | Dec.06 | 10:19 - 12:32     |                                                 | UBC desktop           |
 | Baptiste Meadow   | 2        | 9441   | BAR-LT | Dec.04 | 22:40 - 9:00 (+1) |                                                 | Asus Zen book         |
 | Big Creek Control | 1        | 9089   | BAR-LT | Dec.06 | 13:08 - 14:46     |                                                 | UBC desktop           |
-| Big Creek Control | 2        |        |        |        |                   |                                                 |                       |
-| Burnson Lake      | 1        | 7915   | Mini   | Dec.06 | 14:58 -           |                                                 | UBC desktop           |
-| Burnson Lake      | 2        | 9214   | BAR-LT | Dec.06 |                   |                                                 | UBC desktop           |
+| Big Creek Control | 2        | 9515   | BAR-LT | Dec.08 | 10:20 -           |                                                 | UBC desktop           |
+| Burnson Lake      | 1        | 7915   | Mini   | Dec.06 | 14:58 - 16:20     |                                                 | UBC desktop           |
+| Burnson Lake      | 2        | 9214   | BAR-LT | Dec.06 | 16:20 - 18:10     |                                                 | UBC desktop           |
