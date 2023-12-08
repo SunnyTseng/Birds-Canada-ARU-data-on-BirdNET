@@ -11,15 +11,22 @@ repository is to analyzing all the ARU recordings that collected from
 this project through BirdNET, and provide detection information for each
 of the ARU.
 
-## About
-
-BirdNET Analyzer GUI on Windows
-
-Model: BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile
-
 ## Workflow
 
+*This session is still under developing*
+
+1.  Data organization
+2.  Data exploration
+3.  Processing data through BirdNET GUI
+4.  Data wrangling and cleaning
+5.  Final summarizing
+
 ## BirdNET Analyzer GUI settings
+
+All the analysis will be done on [BirdNET
+Analyzer](https://github.com/kahst/BirdNET-Analyzer) GUI on Windows. The
+model version that used in the GUI is
+*BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile*.
 
 - Species by location tab
   - latitude: 51 or 52, base on site location
@@ -49,17 +56,14 @@ Model: BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile
 | location        | value being 1 or 2. The first or the second location of ARU within each site                                             |
 | aru_id          | a 4 digits number. Unique ID of each ARU unit                                                                            |
 | type            | “Mini” or “BAR-LT”                                                                                                       |
-| year            | the year of detection                                                                                                    |
-| month           | the month of detection                                                                                                   |
-| day             | the day of detection                                                                                                     |
+| date            | the date of detection, with the format yyyymmdd                                                                          |
 | hour            | the hour of detection                                                                                                    |
 | start           | within a specific recording, where is the start time of the detection                                                    |
 | end             | within a specific recording, where is the end time of the detection                                                      |
 | scientific_name | scientific name of the detected species                                                                                  |
 | common_name     | common name of the detected species                                                                                      |
 | confidence      | confidence value for the detection provided by BirdNET. Higher confidence corresponded to higher probability of presence |
-| file_path       | file path of the original recording file                                                                                 |
-| note            | extra comments or notes                                                                                                  |
+| filepath        | file path of the original recording file                                                                                 |
 
 ## Processing schedule
 
