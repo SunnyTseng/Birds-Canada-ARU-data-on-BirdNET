@@ -67,13 +67,110 @@ model version that used in the GUI is
 
 ## Processing schedule
 
-| Site              | Location | ARU ID | Type   | Date   | Time              | Output final csv                                | Computer for analysis |
-|-------------------|----------|--------|--------|--------|-------------------|-------------------------------------------------|-----------------------|
-| Axe Lake          | 1        | 9126   | BAR-LT | Dec.04 | 17:10 - 20:46     | [file](./data/cleaned/AxeLake_1_9126_BARLT.csv) | Asus Zen book         |
-| Axe Lake          | 2        | 7859   | Mini   | Dec.04 | 21:20 - 22:30     |                                                 | Asus Zen book         |
-| Baptiste Meadow   | 1        | 9742   | BAR-LT | Dec.06 | 10:19 - 12:32     |                                                 | UBC desktop           |
-| Baptiste Meadow   | 2        | 9441   | BAR-LT | Dec.04 | 22:40 - 9:00 (+1) |                                                 | Asus Zen book         |
-| Big Creek Control | 1        | 9089   | BAR-LT | Dec.06 | 13:08 - 14:46     |                                                 | UBC desktop           |
-| Big Creek Control | 2        | 9515   | BAR-LT | Dec.08 | 10:20 -           |                                                 | UBC desktop           |
-| Burnson Lake      | 1        | 7915   | Mini   | Dec.06 | 14:58 - 16:20     |                                                 | UBC desktop           |
-| Burnson Lake      | 2        | 9214   | BAR-LT | Dec.06 | 16:20 - 18:10     |                                                 | UBC desktop           |
+<table style="width:96%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 6%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 12%" />
+<col style="width: 31%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Site</th>
+<th>Location</th>
+<th>ARU ID</th>
+<th>Type</th>
+<th>Date</th>
+<th>Time</th>
+<th>Output final csv</th>
+<th>Computer for analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Axe Lake</td>
+<td>1</td>
+<td>9126</td>
+<td>BAR-LT</td>
+<td>Dec.04</td>
+<td>17:10 - 20:46</td>
+<td><a href="./data/cleaned/AxeLake_1_9126_BARLT.csv">file</a></td>
+<td>Asus Zen book</td>
+</tr>
+<tr class="even">
+<td>Axe Lake</td>
+<td>2</td>
+<td>7859</td>
+<td>Mini</td>
+<td>Dec.04</td>
+<td>21:20 - 22:30</td>
+<td></td>
+<td>Asus Zen book</td>
+</tr>
+<tr class="odd">
+<td>Baptiste Meadow</td>
+<td>1</td>
+<td>9742</td>
+<td>BAR-LT</td>
+<td>Dec.06</td>
+<td>10:19 - 12:32</td>
+<td></td>
+<td>UBC desktop</td>
+</tr>
+<tr class="even">
+<td>Baptiste Meadow</td>
+<td>2</td>
+<td>9441</td>
+<td>BAR-LT</td>
+<td>Dec.04</td>
+<td>22:40 - 9:00 (+1)</td>
+<td></td>
+<td>Asus Zen book</td>
+</tr>
+<tr class="odd">
+<td>Big Creek Control</td>
+<td>1</td>
+<td>9089</td>
+<td>BAR-LT</td>
+<td>Dec.06</td>
+<td>13:08 - 14:46</td>
+<td></td>
+<td>UBC desktop</td>
+</tr>
+<tr class="even">
+<td>Big Creek Control</td>
+<td>2</td>
+<td>9515</td>
+<td>BAR-LT</td>
+<td>Dec.08</td>
+<td><p>10:20 -</p>
+<p>11:52</p></td>
+<td></td>
+<td>UBC desktop</td>
+</tr>
+<tr class="odd">
+<td>Burnson Lake</td>
+<td>1</td>
+<td>7915</td>
+<td>Mini</td>
+<td>Dec.06</td>
+<td>14:58 - 16:20</td>
+<td></td>
+<td>UBC desktop</td>
+</tr>
+<tr class="even">
+<td>Burnson Lake</td>
+<td>2</td>
+<td>9214</td>
+<td>BAR-LT</td>
+<td>Dec.06</td>
+<td>16:20 - 18:10</td>
+<td></td>
+<td>UBC desktop</td>
+</tr>
+</tbody>
+</table>
