@@ -67,6 +67,7 @@ model version that used in the GUI is
 
 ## Processing schedule
 
+<<<<<<< Updated upstream
 | Site              | Location | ARU ID | Type   | Date   | Time              | Output final csv                                | Computer for analysis |
 |-------------------|----------|--------|--------|--------|-------------------|-------------------------------------------------|-----------------------|
 | Axe Lake          | 1        | 9126   | BAR-LT | Dec.04 | 17:10 - 20:46     | [file](./data/cleaned/AxeLake_1_9126_BARLT.csv) | Asus Zen book         |
@@ -77,3 +78,15 @@ model version that used in the GUI is
 | Big Creek Control | 2        |        |        |        |                   |                                                 |                       |
 | Burnson Lake      | 1        | 7915   | Mini   | Dec.06 | 14:58 -           |                                                 | UBC desktop           |
 | Burnson Lake      | 2        | 9214   | BAR-LT | Dec.06 |                   |                                                 | UBC desktop           |
+=======
+| Site              | Location | ARU ID | Type   | Date   | Time              | Output final csv | Computer for analysis |
+|-------------------|----------|--------|--------|--------|-------------------|------------------|-----------------------|
+| Axe Lake          | 1        | 9126   | BAR-LT | Dec.04 | 17:10 - 20:46     |                  | Asus Zen book         |
+| Axe Lake          | 2        | 7859   | Mini   | Dec.04 | 21:20 - 22:30     |                  | Asus Zen book         |
+| Baptiste Meadow   | 1        | 9742   | BAR-LT | Dec.06 | 10:19 - 12:32     |                  | UBC desktop           |
+| Baptiste Meadow   | 2        | 9441   | BAR-LT | Dec.04 | 22:40 - 9:00 (+1) |                  | Asus Zen book         |
+| Big Creek Control | 1        | 9089   | BAR-LT | Dec.06 | 13:08 - 14:46     |                  | UBC desktop           |
+| Big Creek Control | 2        |        |        |        |                   |                  |                       |
+| Burnson Lake      | 1        | 7915   | Mini   | Dec.06 | 14:58 - 14:59     |                  | UBC desktop           |
+| Burnson Lake      | 2        | 9214   | BAR-LT | Dec.06 | 14:59 -           |                  | UBC desktop           |
+>>>>>>> Stashed changes
