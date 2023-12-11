@@ -67,16 +67,16 @@ model version that used in the GUI is
 
 ## Processing schedule
 
-<table style="width:96%;">
+<table style="width:95%;">
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 6%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 12%" />
-<col style="width: 31%" />
-<col style="width: 15%" />
+<col style="width: 18%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 18%" />
+<col style="width: 8%" />
+<col style="width: 13%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -86,8 +86,8 @@ model version that used in the GUI is
 <th>Type</th>
 <th>Date</th>
 <th>Time</th>
-<th>Output final csv</th>
-<th>Computer for analysis</th>
+<th>Output</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
@@ -98,8 +98,8 @@ model version that used in the GUI is
 <td>BAR-LT</td>
 <td>Dec.04</td>
 <td>17:10 - 20:46</td>
-<td><a href="./data/cleaned/AxeLake_1_9126_BARLT.csv">file</a></td>
-<td>Asus Zen book</td>
+<td></td>
+<td>3.5 hr</td>
 </tr>
 <tr class="even">
 <td>Axe Lake</td>
@@ -109,7 +109,7 @@ model version that used in the GUI is
 <td>Dec.04</td>
 <td>21:20 - 22:30</td>
 <td></td>
-<td>Asus Zen book</td>
+<td>1.5 hr</td>
 </tr>
 <tr class="odd">
 <td>Baptiste Meadow</td>
@@ -119,7 +119,7 @@ model version that used in the GUI is
 <td>Dec.06</td>
 <td>10:19 - 12:32</td>
 <td></td>
-<td>UBC desktop</td>
+<td>2 hr</td>
 </tr>
 <tr class="even">
 <td>Baptiste Meadow</td>
@@ -129,7 +129,7 @@ model version that used in the GUI is
 <td>Dec.04</td>
 <td>22:40 - 9:00 (+1)</td>
 <td></td>
-<td>Asus Zen book</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>Big Creek Control</td>
@@ -139,7 +139,7 @@ model version that used in the GUI is
 <td>Dec.06</td>
 <td>13:08 - 14:46</td>
 <td></td>
-<td>UBC desktop</td>
+<td>1.5 hr</td>
 </tr>
 <tr class="even">
 <td>Big Creek Control</td>
@@ -150,7 +150,7 @@ model version that used in the GUI is
 <td><p>10:20 -</p>
 <p>11:52</p></td>
 <td></td>
-<td>UBC desktop</td>
+<td>1.5 hr</td>
 </tr>
 <tr class="odd">
 <td>Burnson Lake</td>
@@ -160,7 +160,7 @@ model version that used in the GUI is
 <td>Dec.06</td>
 <td>14:58 - 16:20</td>
 <td></td>
-<td>UBC desktop</td>
+<td>1.5 hr</td>
 </tr>
 <tr class="even">
 <td>Burnson Lake</td>
@@ -170,7 +170,97 @@ model version that used in the GUI is
 <td>Dec.06</td>
 <td>16:20 - 18:10</td>
 <td></td>
-<td>UBC desktop</td>
+<td>2 hr</td>
+</tr>
+<tr class="odd">
+<td>Chilco Ranch</td>
+<td>1</td>
+<td>9807</td>
+<td>BAR-LT</td>
+<td>Dec.08</td>
+<td>19:09 - 20:36</td>
+<td></td>
+<td>Run in batch</td>
+</tr>
+<tr class="even">
+<td>Chilco Ranch</td>
+<td>2</td>
+<td>9603</td>
+<td>BAR-LT</td>
+<td>Dec.08</td>
+<td>17:41 - 19:08</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Colpitt Lake</td>
+<td>1</td>
+<td>8792</td>
+<td>BAR-LT</td>
+<td>Dec.08</td>
+<td>21:57 - 23:50</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Colpitt Lake</td>
+<td>2</td>
+<td>7255</td>
+<td>Mini</td>
+<td>Dec.08</td>
+<td>20:46 - 21:57</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dog Creek Road</td>
+<td>1</td>
+<td>9029</td>
+<td>BAR-LT</td>
+<td>Dec.09</td>
+<td>00:34 - 02:35</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dog Creek Road</td>
+<td>2</td>
+<td>7245</td>
+<td>Mini</td>
+<td>Dec.08</td>
+<td>11:56 - 00:34 (+1)</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Enterprise Road</td>
+<td>NA, put 1</td>
+<td>9270</td>
+<td>BAR-LT</td>
+<td>Dec.09</td>
+<td>2:36 - 4:36</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fiftynine Creek</td>
+<td>1</td>
+<td>9782</td>
+<td>BAR-LT</td>
+<td>Dec.09</td>
+<td>6:52 - 9:05</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fiftynine Creek</td>
+<td>2</td>
+<td>8990</td>
+<td>BAR-LT</td>
+<td>Dec.09</td>
+<td>4:37 - 6:51</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
