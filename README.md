@@ -69,11 +69,11 @@ model version that used in the GUI is
 
 <table style="width:95%;">
 <colgroup>
-<col style="width: 18%" />
+<col style="width: 19%" />
 <col style="width: 10%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
-<col style="width: 9%" />
+<col style="width: 8%" />
 <col style="width: 18%" />
 <col style="width: 8%" />
 <col style="width: 13%" />
@@ -259,6 +259,106 @@ model version that used in the GUI is
 <td>BAR-LT</td>
 <td>Dec.09</td>
 <td>4:37 - 6:51</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Helena Conservation</td>
+<td>1</td>
+<td>9235</td>
+<td>BAR-LT</td>
+<td>Dec.11</td>
+<td>14:03 - 16:24</td>
+<td></td>
+<td>Run in batch</td>
+</tr>
+<tr class="odd">
+<td>Helena Conservation</td>
+<td>2</td>
+<td>9140</td>
+<td>BAR-LT</td>
+<td>Dec.11</td>
+<td>11:16 - 14:02</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Helena Lake</td>
+<td>1</td>
+<td>9621</td>
+<td>BAR-LT</td>
+<td>Dec.11</td>
+<td>18:42 - 20:51</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Helena Lake</td>
+<td>2</td>
+<td>8923</td>
+<td>BAR-LT</td>
+<td>Dec.11</td>
+<td>16:25 - 18:41</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lilypad Lake</td>
+<td>1</td>
+<td>8860</td>
+<td>BAR-LT</td>
+<td>Dec.11</td>
+<td>22:18 - 00:20 (+1)</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lilypad Lake</td>
+<td>2</td>
+<td>7836</td>
+<td>Mini</td>
+<td>Dec.11</td>
+<td>21:02 - 22:08</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Murphy Lake</td>
+<td>1</td>
+<td>6663</td>
+<td>Mini</td>
+<td>Dec.12</td>
+<td>00:32 - 1:53</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Murphy Lake</td>
+<td>2</td>
+<td>7710</td>
+<td>Mini</td>
+<td>Dec.12</td>
+<td>2:04 - 3:25</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pete Kitchen Lake</td>
+<td>1</td>
+<td>9058</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td></td>
+<td>empty folder</td>
+</tr>
+<tr class="odd">
+<td>Pete Kitchen Lake</td>
+<td>2</td>
+<td>9205</td>
+<td>BAR-LT</td>
+<td>Dec.12</td>
+<td>3:25 - 5:28</td>
 <td></td>
 <td></td>
 </tr>
