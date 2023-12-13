@@ -19,7 +19,7 @@ of the ARU.
 2.  Data exploration
 3.  Processing data through BirdNET GUI
 4.  Data wrangling and cleaning
-5.  Final summarizing
+5.  Final summarizing (could try a new [R package](https://github.com/nationalparkservice/NSNSDAcoustics#assessing-birdnet-results))
 
 ## BirdNET Analyzer GUI settings
 
