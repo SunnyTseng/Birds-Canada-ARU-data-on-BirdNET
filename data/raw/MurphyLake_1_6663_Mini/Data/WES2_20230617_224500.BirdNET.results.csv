@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,72.0,75.0,Gavia immer,Common Loon,0.5842,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,90.0,93.0,Gavia immer,Common Loon,0.8377,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,111.0,114.0,Gavia immer,Common Loon,0.9970,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,114.0,117.0,Gavia immer,Common Loon,0.9287,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,132.0,135.0,Gavia immer,Common Loon,0.7444,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,162.0,165.0,Gallinago delicata,Wilson's Snipe,0.5997,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230617_224500.wav,195.0,198.0,Gallinago delicata,Wilson's Snipe,0.7834,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

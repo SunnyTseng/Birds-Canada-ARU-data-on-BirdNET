@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,225.0,228.0,Porzana carolina,Sora,0.9043,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,234.0,237.0,Porzana carolina,Sora,0.6604,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,237.0,240.0,Porzana carolina,Sora,0.9046,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,246.0,249.0,Porzana carolina,Sora,0.9257,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,255.0,258.0,Porzana carolina,Sora,0.7190,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,258.0,261.0,Porzana carolina,Sora,0.9382,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav,279.0,282.0,Porzana carolina,Sora,0.5249,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

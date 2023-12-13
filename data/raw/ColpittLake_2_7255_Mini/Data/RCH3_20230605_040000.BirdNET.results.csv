@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230605_040000.wav,30.0,33.0,Catharus ustulatus,Swainson's Thrush,0.7000,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230605_040000.wav,33.0,36.0,Catharus ustulatus,Swainson's Thrush,0.9703,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230605_040000.wav,252.0,255.0,Catharus ustulatus,Swainson's Thrush,0.7277,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230605_040000.wav,258.0,261.0,Catharus ustulatus,Swainson's Thrush,0.8283,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230605_040000.wav,267.0,270.0,Porzana carolina,Sora,0.5358,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230605_040000.wav,270.0,273.0,Porzana carolina,Sora,0.5168,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,13 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,39.0,42.0,Cistothorus palustris,Marsh Wren,0.7317,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,48.0,51.0,Cistothorus palustris,Marsh Wren,0.9466,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,57.0,60.0,Cistothorus palustris,Marsh Wren,0.8752,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,75.0,78.0,Cistothorus palustris,Marsh Wren,0.7224,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,123.0,126.0,Cistothorus palustris,Marsh Wren,0.6888,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,150.0,153.0,Cistothorus palustris,Marsh Wren,0.7982,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,156.0,159.0,Cistothorus palustris,Marsh Wren,0.8566,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,171.0,174.0,Cistothorus palustris,Marsh Wren,0.5518,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,189.0,192.0,Cistothorus palustris,Marsh Wren,0.6274,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,213.0,216.0,Cistothorus palustris,Marsh Wren,0.6129,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,225.0,228.0,Cistothorus palustris,Marsh Wren,0.8135,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230605_010000.wav,234.0,237.0,Cistothorus palustris,Marsh Wren,0.5959,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

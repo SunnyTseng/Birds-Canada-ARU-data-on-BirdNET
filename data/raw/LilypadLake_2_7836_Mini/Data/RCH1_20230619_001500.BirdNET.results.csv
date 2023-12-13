@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230619_001500.wav,54.0,57.0,Gavia immer,Common Loon,0.7238,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230619_001500.wav,72.0,75.0,Gavia immer,Common Loon,0.9989,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230619_001500.wav,75.0,78.0,Gavia immer,Common Loon,0.7643,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

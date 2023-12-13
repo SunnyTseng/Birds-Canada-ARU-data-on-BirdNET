@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,36.0,39.0,Spinus pinus,Pine Siskin,0.8941,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,177.0,180.0,Spinus pinus,Pine Siskin,0.8709,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,180.0,183.0,Spinus pinus,Pine Siskin,0.6217,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,189.0,192.0,Spinus pinus,Pine Siskin,0.8386,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,201.0,204.0,Spinus pinus,Pine Siskin,0.6916,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,204.0,207.0,Spinus pinus,Pine Siskin,0.6835,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230616_083000.wav,210.0,213.0,Spinus pinus,Pine Siskin,0.9558,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

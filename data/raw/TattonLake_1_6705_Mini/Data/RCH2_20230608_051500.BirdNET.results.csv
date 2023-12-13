@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230608_051500.wav,60.0,63.0,Corthylio calendula,Ruby-crowned Kinglet,0.6982,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230608_051500.wav,129.0,132.0,Porzana carolina,Sora,0.8534,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230608_051500.wav,273.0,276.0,Setophaga coronata,Yellow-rumped Warbler,0.5923,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

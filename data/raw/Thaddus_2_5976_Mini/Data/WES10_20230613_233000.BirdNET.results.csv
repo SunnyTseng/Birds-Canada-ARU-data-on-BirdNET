@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230613_233000.wav,42.0,45.0,Porzana carolina,Sora,0.6639,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230613_233000.wav,225.0,228.0,Porzana carolina,Sora,0.5415,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230613_233000.wav,246.0,249.0,Oxyura jamaicensis,Ruddy Duck,0.8609,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230613_233000.wav,249.0,252.0,Oxyura jamaicensis,Ruddy Duck,0.7771,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230613_233000.wav,255.0,258.0,Oxyura jamaicensis,Ruddy Duck,0.9625,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

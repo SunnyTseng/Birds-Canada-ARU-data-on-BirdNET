@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230609_084500.wav,60.0,63.0,Poecile gambeli,Mountain Chickadee,0.6464,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230609_084500.wav,87.0,90.0,Poecile gambeli,Mountain Chickadee,0.5709,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230609_084500.wav,96.0,99.0,Poecile gambeli,Mountain Chickadee,0.9537,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230609_084500.wav,117.0,120.0,Poecile gambeli,Mountain Chickadee,0.7972,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230609_084500.wav,225.0,228.0,Empidonax hammondii,Hammond's Flycatcher,0.5251,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230609_084500.wav,228.0,231.0,Spinus pinus,Pine Siskin,0.6094,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

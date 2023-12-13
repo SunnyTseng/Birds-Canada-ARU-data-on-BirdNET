@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230605_083000.wav,66.0,69.0,Vireo cassinii,Cassin's Vireo,0.8509,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

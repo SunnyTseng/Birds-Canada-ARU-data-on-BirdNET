@@ -1,0 +1,11 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,24.0,27.0,Empidonax traillii,Willow Flycatcher,0.8675,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,27.0,30.0,Empidonax minimus,Least Flycatcher,0.7055,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,33.0,36.0,Empidonax traillii,Willow Flycatcher,0.5650,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,75.0,78.0,Empidonax minimus,Least Flycatcher,0.6268,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,81.0,84.0,Empidonax traillii,Willow Flycatcher,0.6872,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,126.0,129.0,Empidonax traillii,Willow Flycatcher,0.6826,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,135.0,138.0,Empidonax minimus,Least Flycatcher,0.8932,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,165.0,168.0,Empidonax traillii,Willow Flycatcher,0.7322,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,174.0,177.0,Empidonax minimus,Least Flycatcher,0.6183,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230611_221500.wav,276.0,279.0,Empidonax traillii,Willow Flycatcher,0.7786,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

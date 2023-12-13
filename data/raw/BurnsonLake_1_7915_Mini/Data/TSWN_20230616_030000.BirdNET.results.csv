@@ -1,0 +1,9 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,6.0,9.0,Fulica americana,American Coot,0.7489,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,9.0,12.0,Gavia immer,Common Loon,0.9555,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,12.0,15.0,Gavia immer,Common Loon,0.7361,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,24.0,27.0,Gavia immer,Common Loon,0.9868,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,27.0,30.0,Gavia immer,Common Loon,0.9977,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,63.0,66.0,Empidonax traillii,Willow Flycatcher,0.8210,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,78.0,81.0,Fulica americana,American Coot,0.5554,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_030000.wav,189.0,192.0,Empidonax traillii,Willow Flycatcher,0.8961,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

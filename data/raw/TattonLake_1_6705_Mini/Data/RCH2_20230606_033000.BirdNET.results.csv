@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230606_033000.wav,207.0,210.0,Gallinago delicata,Wilson's Snipe,0.9264,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230606_033000.wav,210.0,213.0,Gallinago delicata,Wilson's Snipe,0.8732,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230606_033000.wav,216.0,219.0,Gallinago delicata,Wilson's Snipe,0.6299,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230606_033000.wav,219.0,222.0,Gallinago delicata,Wilson's Snipe,0.8584,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230606_033000.wav,243.0,246.0,Gallinago delicata,Wilson's Snipe,0.5313,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230606_033000.wav,246.0,249.0,Gallinago delicata,Wilson's Snipe,0.9217,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

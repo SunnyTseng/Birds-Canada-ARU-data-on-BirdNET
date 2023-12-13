@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230619_061500.wav,18.0,21.0,Empidonax traillii,Willow Flycatcher,0.7751,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230619_061500.wav,18.0,21.0,Empidonax alnorum,Alder Flycatcher,0.6256,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230619_061500.wav,129.0,132.0,Geothlypis trichas,Common Yellowthroat,0.6053,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230619_061500.wav,192.0,195.0,Geothlypis trichas,Common Yellowthroat,0.5077,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230619_061500.wav,276.0,279.0,Empidonax traillii,Willow Flycatcher,0.7402,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230619_061500.wav,294.0,297.0,Melospiza melodia,Song Sparrow,0.7451,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

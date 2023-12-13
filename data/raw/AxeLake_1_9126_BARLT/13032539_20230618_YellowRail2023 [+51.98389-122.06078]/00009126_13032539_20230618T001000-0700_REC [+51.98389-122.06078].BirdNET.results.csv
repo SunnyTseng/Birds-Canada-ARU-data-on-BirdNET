@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_9126 (Site 1)\13032539_20230618_YellowRail2023 [+51.98389-122.06078]\00009126_13032539_20230618T001000-0700_REC [+51.98389-122.06078].wav,279.0,282.0,Mareca strepera,Gadwall,0.9001,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

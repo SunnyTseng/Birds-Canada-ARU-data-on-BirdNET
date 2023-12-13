@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,15.0,18.0,Vireo cassinii,Cassin's Vireo,0.8107,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,27.0,30.0,Vireo cassinii,Cassin's Vireo,0.5319,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,39.0,42.0,Vireo cassinii,Cassin's Vireo,0.8659,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,69.0,72.0,Vireo cassinii,Cassin's Vireo,0.6043,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,96.0,99.0,Vireo cassinii,Cassin's Vireo,0.5723,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,108.0,111.0,Vireo cassinii,Cassin's Vireo,0.5328,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230617_050000.wav,216.0,219.0,Vireo cassinii,Cassin's Vireo,0.5939,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

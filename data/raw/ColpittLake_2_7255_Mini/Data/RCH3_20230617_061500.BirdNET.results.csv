@@ -1,0 +1,4 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230617_061500.wav,48.0,51.0,Podilymbus podiceps,Pied-billed Grebe,0.7823,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230617_061500.wav,51.0,54.0,Podilymbus podiceps,Pied-billed Grebe,0.5401,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_7255 (Site 2)\Data\RCH3_20230617_061500.wav,69.0,72.0,Spinus pinus,Pine Siskin,0.8250,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

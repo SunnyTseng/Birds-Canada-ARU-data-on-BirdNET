@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Winthrow Creek\ARU_9065 (Site 1)\13794221_20230619_YellowRail2023 [+51.92783-122.85861]\nocturnal_random_selected\WINTHROW1_20230619_004000.wav,69.0,72.0,Junco hyemalis,Dark-eyed Junco,0.7318,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

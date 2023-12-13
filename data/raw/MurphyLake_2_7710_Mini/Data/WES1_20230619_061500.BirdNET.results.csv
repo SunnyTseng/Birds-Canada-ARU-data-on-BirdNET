@@ -1,0 +1,5 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_061500.wav,3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.7646,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_061500.wav,90.0,93.0,Setophaga coronata,Yellow-rumped Warbler,0.5413,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_061500.wav,93.0,96.0,Piranga ludoviciana,Western Tanager,0.6336,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_061500.wav,129.0,132.0,Geothlypis trichas,Common Yellowthroat,0.5441,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

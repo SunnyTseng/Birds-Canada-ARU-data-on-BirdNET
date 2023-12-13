@@ -1,0 +1,5 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_070000.wav,24.0,27.0,Geothlypis trichas,Common Yellowthroat,0.6104,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_070000.wav,96.0,99.0,Dryobates villosus,Hairy Woodpecker,0.9785,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_070000.wav,105.0,108.0,Spinus pinus,Pine Siskin,0.5061,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\WES1_20230619_070000.wav,150.0,153.0,Geothlypis trichas,Common Yellowthroat,0.5348,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

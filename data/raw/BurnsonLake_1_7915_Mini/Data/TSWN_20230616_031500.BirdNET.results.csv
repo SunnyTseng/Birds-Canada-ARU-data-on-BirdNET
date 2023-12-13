@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,45.0,48.0,Podiceps grisegena,Red-necked Grebe,0.9217,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,207.0,210.0,Empidonax traillii,Willow Flycatcher,0.5982,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,231.0,234.0,Empidonax traillii,Willow Flycatcher,0.8966,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,240.0,243.0,Empidonax traillii,Willow Flycatcher,0.9912,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,270.0,273.0,Empidonax alnorum,Alder Flycatcher,0.6271,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,279.0,282.0,Empidonax traillii,Willow Flycatcher,0.5060,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\Brunson Lake\ARU_7915 (Site 1)\Data\TSWN_20230616_031500.wav,282.0,285.0,Empidonax traillii,Willow Flycatcher,0.8911,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

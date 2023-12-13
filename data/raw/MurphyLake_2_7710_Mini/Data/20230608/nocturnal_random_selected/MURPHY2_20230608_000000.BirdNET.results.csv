@@ -1,0 +1,3 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\20230608\nocturnal_random_selected\MURPHY2_20230608_000000.wav,117.0,120.0,Porzana carolina,Sora,0.7280,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_7710 (Site 2)\Data\20230608\nocturnal_random_selected\MURPHY2_20230608_000000.wav,165.0,168.0,Porzana carolina,Sora,0.6009,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

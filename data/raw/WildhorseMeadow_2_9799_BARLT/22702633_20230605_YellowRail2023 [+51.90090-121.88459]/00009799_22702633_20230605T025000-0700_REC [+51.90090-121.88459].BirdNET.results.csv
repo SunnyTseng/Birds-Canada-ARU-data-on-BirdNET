@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Wildhorse Meadow\ARU_9799 (Site 2)\22702633_20230605_YellowRail2023 [+51.90090-121.88459]\00009799_22702633_20230605T025000-0700_REC [+51.90090-121.88459].wav,207.0,210.0,Podilymbus podiceps,Pied-billed Grebe,0.9376,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

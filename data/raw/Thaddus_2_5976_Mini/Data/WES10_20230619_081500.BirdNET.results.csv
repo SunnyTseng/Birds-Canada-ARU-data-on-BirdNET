@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230619_081500.wav,0,3.0,Cistothorus palustris,Marsh Wren,0.8481,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230619_081500.wav,6.0,9.0,Cistothorus palustris,Marsh Wren,0.7039,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230619_081500.wav,9.0,12.0,Cistothorus palustris,Marsh Wren,0.7321,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230619_081500.wav,15.0,18.0,Cistothorus palustris,Marsh Wren,0.8219,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230619_081500.wav,201.0,204.0,Fulica americana,American Coot,0.6664,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230619_081500.wav,258.0,261.0,Fulica americana,American Coot,0.6989,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230606_053000.wav,141.0,144.0,Sitta canadensis,Red-breasted Nuthatch,0.5525,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230606_053000.wav,153.0,156.0,Spizella passerina,Chipping Sparrow,0.5827,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230606_053000.wav,228.0,231.0,Sitta canadensis,Red-breasted Nuthatch,0.6195,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230606_053000.wav,282.0,285.0,Branta canadensis,Canada Goose,0.6093,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Lilypad Lake\ARU_7836 (Site 2)\Data\RCH1_20230606_053000.wav,288.0,291.0,Branta canadensis,Canada Goose,0.5469,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,5 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230620_081500.wav,276.0,279.0,Gavia immer,Common Loon,0.9912,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230620_081500.wav,279.0,282.0,Gavia immer,Common Loon,0.9790,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230620_081500.wav,294.0,297.0,Gavia immer,Common Loon,0.8808,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230620_081500.wav,297.0,300.0,Gavia immer,Common Loon,0.9870,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

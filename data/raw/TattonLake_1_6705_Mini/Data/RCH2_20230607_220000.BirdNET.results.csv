@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230607_220000.wav,42.0,45.0,Branta canadensis,Canada Goose,0.6400,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230607_220000.wav,48.0,51.0,Branta canadensis,Canada Goose,0.5218,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230607_220000.wav,117.0,120.0,Podilymbus podiceps,Pied-billed Grebe,0.9729,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230607_220000.wav,165.0,168.0,Gallinago delicata,Wilson's Snipe,0.6166,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230607_220000.wav,180.0,183.0,Porzana carolina,Sora,0.6819,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Tatton Lake\ARU_6705 (Site 1)\Data\RCH2_20230607_220000.wav,246.0,249.0,Gavia immer,Common Loon,0.7676,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

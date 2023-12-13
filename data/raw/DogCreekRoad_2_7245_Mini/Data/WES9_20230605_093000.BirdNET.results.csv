@@ -1,0 +1,8 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,42.0,45.0,Corvus corax,Common Raven,0.7895,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,57.0,60.0,Corvus corax,Common Raven,0.6585,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,81.0,84.0,Corvus corax,Common Raven,0.5567,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,90.0,93.0,Corvus corax,Common Raven,0.9578,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,99.0,102.0,Molothrus ater,Brown-headed Cowbird,0.5590,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,102.0,105.0,Corvus corax,Common Raven,0.8560,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230605_093000.wav,117.0,120.0,Corvus corax,Common Raven,0.7589,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

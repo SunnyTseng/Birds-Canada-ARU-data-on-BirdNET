@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Colpitt Lake\ARU_8792 (Site 1)\21431231_20230620_YellowRail2023 [+52.00908-122.08420]\00008792_21431231_20230620T005000-0700_REC [+52.00908-122.08420].wav,57.0,60.0,Cistothorus palustris,Marsh Wren,0.5580,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

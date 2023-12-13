@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Watson Creek\ARU_7759 (Site 2)\Data\20230615\nocturnal_random_selected\WATSON2_20230615_030000.wav,240.0,243.0,Empidonax minimus,Least Flycatcher,0.8731,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

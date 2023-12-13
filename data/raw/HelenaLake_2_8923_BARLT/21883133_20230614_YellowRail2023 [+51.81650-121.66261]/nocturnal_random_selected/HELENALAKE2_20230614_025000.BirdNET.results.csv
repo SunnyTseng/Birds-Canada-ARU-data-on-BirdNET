@@ -1,0 +1,3 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Helena Lake\ARU_8923 (Site 2)\21883133_20230614_YellowRail2023 [+51.81650-121.66261]\nocturnal_random_selected\HELENALAKE2_20230614_025000.wav,267.0,270.0,Porzana carolina,Sora,0.9861,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Helena Lake\ARU_8923 (Site 2)\21883133_20230614_YellowRail2023 [+51.81650-121.66261]\nocturnal_random_selected\HELENALAKE2_20230614_025000.wav,270.0,273.0,Porzana carolina,Sora,0.9004,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

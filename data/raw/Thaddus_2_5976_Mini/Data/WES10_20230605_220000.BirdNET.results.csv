@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230605_220000.wav,126.0,129.0,Anas crecca,Green-winged Teal,0.9476,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230605_220000.wav,138.0,141.0,Anas crecca,Green-winged Teal,0.5502,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230605_220000.wav,156.0,159.0,Anas crecca,Green-winged Teal,0.5351,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230605_220000.wav,159.0,162.0,Anas crecca,Green-winged Teal,0.5025,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230605_220000.wav,165.0,168.0,Anas crecca,Green-winged Teal,0.7726,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230605_220000.wav,168.0,171.0,Anas crecca,Green-winged Teal,0.6861,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

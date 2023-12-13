@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Baptiste Meadow\ARU_9742 (Site 1)\20517647_20230614_YellowRail2023 [+51.99530-122.54079]\00009742_20517647_20230614T015000-0700_REC [+51.99530-122.54079].wav,228.0,231.0,Porzana carolina,Sora,0.6593,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,7 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230615_083000.wav,6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.6130,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230615_083000.wav,21.0,24.0,Junco hyemalis,Dark-eyed Junco,0.5186,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230615_083000.wav,27.0,30.0,Junco hyemalis,Dark-eyed Junco,0.7294,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230615_083000.wav,33.0,36.0,Junco hyemalis,Dark-eyed Junco,0.5112,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230615_083000.wav,126.0,129.0,Empidonax hammondii,Hammond's Flycatcher,0.5383,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Murphy Lake\ARU_6663 (Site 1)\Data\WES2_20230615_083000.wav,171.0,174.0,Empidonax hammondii,Hammond's Flycatcher,0.9099,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

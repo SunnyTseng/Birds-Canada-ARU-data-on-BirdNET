@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\Big Creek Control\ARU_9515 (Site 2)\12338937_20230611_YellowRail2023 [+51.84263-123.07118]\00009515_12338937_20230611T062000-0700_REC [+51.84263-123.07118].wav,165.0,168.0,Melospiza melodia,Song Sparrow,0.7030,52.0000,-123.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

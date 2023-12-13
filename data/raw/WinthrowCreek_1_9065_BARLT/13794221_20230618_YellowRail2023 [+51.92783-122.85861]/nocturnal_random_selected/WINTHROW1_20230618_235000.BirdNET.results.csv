@@ -1,0 +1,3 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Winthrow Creek\ARU_9065 (Site 1)\13794221_20230618_YellowRail2023 [+51.92783-122.85861]\nocturnal_random_selected\WINTHROW1_20230618_235000.wav,93.0,96.0,Cistothorus palustris,Marsh Wren,0.6261,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Winthrow Creek\ARU_9065 (Site 1)\13794221_20230618_YellowRail2023 [+51.92783-122.85861]\nocturnal_random_selected\WINTHROW1_20230618_235000.wav,111.0,114.0,Cistothorus palustris,Marsh Wren,0.7023,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Chilco Ranch\ARU_9807 (Site 1)\12338915_20230613_YellowRail2023 [+51.86264-123.03040]\00009807_12338915_20230613T220000-0700_REC [+51.86264-123.03040].wav,252.0,255.0,Pooecetes gramineus,Vesper Sparrow,0.5854,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

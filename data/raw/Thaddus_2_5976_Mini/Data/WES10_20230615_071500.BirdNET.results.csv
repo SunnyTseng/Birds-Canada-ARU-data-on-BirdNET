@@ -1,0 +1,5 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230615_071500.wav,144.0,147.0,Spinus pinus,Pine Siskin,0.8558,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230615_071500.wav,147.0,150.0,Spinus pinus,Pine Siskin,0.7595,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230615_071500.wav,240.0,243.0,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,0.8281,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Thaddus Lake\ARU_5976 (Site 2)\Data\WES10_20230615_071500.wav,243.0,246.0,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,0.7785,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

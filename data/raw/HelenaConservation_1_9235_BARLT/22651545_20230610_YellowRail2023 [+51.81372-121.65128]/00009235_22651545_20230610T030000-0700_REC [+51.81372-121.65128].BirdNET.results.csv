@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Helena Conservation\ARU_9235 (Site 1)\22651545_20230610_YellowRail2023 [+51.81372-121.65128]\00009235_22651545_20230610T030000-0700_REC [+51.81372-121.65128].wav,96.0,99.0,Porzana carolina,Sora,0.6196,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

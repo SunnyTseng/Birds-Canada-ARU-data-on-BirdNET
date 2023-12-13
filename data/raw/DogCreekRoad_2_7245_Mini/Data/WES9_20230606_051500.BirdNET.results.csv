@@ -1,0 +1,6 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230606_051500.wav,51.0,54.0,Mareca strepera,Gadwall,0.5013,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230606_051500.wav,69.0,72.0,Loxia curvirostra,Red Crossbill,0.8379,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230606_051500.wav,69.0,72.0,Loxia leucoptera,White-winged Crossbill,0.7623,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230606_051500.wav,123.0,126.0,Mareca strepera,Gadwall,0.7856,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Dog Creek Road\ARU_7245 (Site 2)\Data\WES9_20230606_051500.wav,288.0,291.0,Parkesia noveboracensis,Northern Waterthrush,0.6345,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

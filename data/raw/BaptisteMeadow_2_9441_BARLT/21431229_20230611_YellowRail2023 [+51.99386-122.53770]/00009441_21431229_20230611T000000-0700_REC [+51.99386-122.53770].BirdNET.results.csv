@@ -1,0 +1,3 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+F:\Chilcotin_Cariboo_ARU_2023\Baptiste Meadow\ARU_9441 (Site 2)\21431229_20230611_YellowRail2023 [+51.99386-122.53770]\00009441_21431229_20230611T000000-0700_REC [+51.99386-122.53770].wav,210.0,213.0,Oxyura jamaicensis,Ruddy Duck,0.5225,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+F:\Chilcotin_Cariboo_ARU_2023\Baptiste Meadow\ARU_9441 (Site 2)\21431229_20230611_YellowRail2023 [+51.99386-122.53770]\00009441_21431229_20230611T000000-0700_REC [+51.99386-122.53770].wav,291.0,294.0,Porzana carolina,Sora,0.5032,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\z_BirdNET GUI folder\Fiftynine Creek\ARU_9782 (Site 1)\20517635_20230619_YellowRail2023 [+51.23249-121.57449]\nocturnal_random_selected\FIFTYNINE1_20230619_034000.wav,105.0,108.0,Contopus cooperi,Olive-sided Flycatcher,0.7800,53.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
