@@ -1,5 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_091500.wav,69.0,72.0,Sitta canadensis,Red-breasted Nuthatch,0.8480,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_091500.wav,72.0,75.0,Sitta canadensis,Red-breasted Nuthatch,0.7527,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_091500.wav,117.0,120.0,Corthylio calendula,Ruby-crowned Kinglet,0.5068,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_091500.wav,279.0,282.0,Corthylio calendula,Ruby-crowned Kinglet,0.7595,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

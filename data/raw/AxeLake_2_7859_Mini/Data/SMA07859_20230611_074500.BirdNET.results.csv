@@ -1,6 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_074500.wav,12.0,15.0,Catharus ustulatus,Swainson's Thrush,0.5097,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_074500.wav,72.0,75.0,Catharus ustulatus,Swainson's Thrush,0.9605,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_074500.wav,117.0,120.0,Dryocopus pileatus,Pileated Woodpecker,0.9733,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_074500.wav,240.0,243.0,Empidonax oberholseri,Dusky Flycatcher,0.5534,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_074500.wav,273.0,276.0,Spinus pinus,Pine Siskin,0.5135,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

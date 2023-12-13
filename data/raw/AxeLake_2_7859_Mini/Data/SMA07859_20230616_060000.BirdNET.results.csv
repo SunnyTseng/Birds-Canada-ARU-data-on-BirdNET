@@ -1,6 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_060000.wav,6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.6824,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_060000.wav,12.0,15.0,Junco hyemalis,Dark-eyed Junco,0.6986,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_060000.wav,105.0,108.0,Catharus ustulatus,Swainson's Thrush,0.7055,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_060000.wav,120.0,123.0,Catharus ustulatus,Swainson's Thrush,0.6260,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_060000.wav,234.0,237.0,Junco hyemalis,Dark-eyed Junco,0.5862,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

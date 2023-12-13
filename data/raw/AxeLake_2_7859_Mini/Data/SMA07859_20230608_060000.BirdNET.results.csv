@@ -1,8 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,27.0,30.0,Empidonax minimus,Least Flycatcher,0.5073,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,171.0,174.0,Spinus pinus,Pine Siskin,0.6483,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,174.0,177.0,Spinus pinus,Pine Siskin,0.6078,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,264.0,267.0,Spinus pinus,Pine Siskin,0.5249,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,276.0,279.0,Spinus pinus,Pine Siskin,0.7082,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,279.0,282.0,Spinus pinus,Pine Siskin,0.6161,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_060000.wav,282.0,285.0,Spinus pinus,Pine Siskin,0.6360,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

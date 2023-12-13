@@ -1,9 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,81.0,84.0,Spinus pinus,Pine Siskin,0.8350,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,87.0,90.0,Spinus pinus,Pine Siskin,0.7224,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,198.0,201.0,Molothrus ater,Brown-headed Cowbird,0.8571,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,201.0,204.0,Corthylio calendula,Ruby-crowned Kinglet,0.5951,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,210.0,213.0,Corthylio calendula,Ruby-crowned Kinglet,0.8683,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,231.0,234.0,Spizella passerina,Chipping Sparrow,0.5003,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,243.0,246.0,Spizella passerina,Chipping Sparrow,0.6040,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_054500.wav,270.0,273.0,Molothrus ater,Brown-headed Cowbird,0.5044,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

@@ -1,3 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_9126 (Site 1)\13032539_20230615_YellowRail2023 [+51.98389-122.06078]\nocturnal_random_selected\AXE1_20230615_230000.wav,66.0,69.0,Mareca strepera,Gadwall,0.8937,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
-F:\Chilcotin_Cariboo_ARU_2023\Axe Lake\ARU_9126 (Site 1)\13032539_20230615_YellowRail2023 [+51.98389-122.06078]\nocturnal_random_selected\AXE1_20230615_230000.wav,69.0,72.0,Mareca strepera,Gadwall,0.7880,52.0000,-122.0000,24,0,1.0,0.5,None,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
