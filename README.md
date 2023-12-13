@@ -69,14 +69,14 @@ model version that used in the GUI is
 
 <table style="width:95%;">
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 10%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
 <col style="width: 18%" />
-<col style="width: 8%" />
-<col style="width: 13%" />
+<col style="width: 9%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 17%" />
+<col style="width: 7%" />
+<col style="width: 19%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -180,7 +180,7 @@ model version that used in the GUI is
 <td>Dec.08</td>
 <td>19:09 - 20:36</td>
 <td></td>
-<td>Run in batch</td>
+<td>Run in batch (below)</td>
 </tr>
 <tr class="even">
 <td>Chilco Ranch</td>
@@ -234,13 +234,13 @@ model version that used in the GUI is
 </tr>
 <tr class="odd">
 <td>Enterprise Road</td>
-<td>NA, put 1</td>
+<td>1</td>
 <td>9270</td>
 <td>BAR-LT</td>
 <td>Dec.09</td>
 <td>2:36 - 4:36</td>
 <td></td>
-<td></td>
+<td>Location was NA</td>
 </tr>
 <tr class="even">
 <td>Fiftynine Creek</td>
@@ -270,7 +270,7 @@ model version that used in the GUI is
 <td>Dec.11</td>
 <td>14:03 - 16:24</td>
 <td></td>
-<td>Run in batch</td>
+<td>Run in batch (below)</td>
 </tr>
 <tr class="odd">
 <td>Helena Conservation</td>
@@ -359,6 +359,106 @@ model version that used in the GUI is
 <td>BAR-LT</td>
 <td>Dec.12</td>
 <td>3:25 - 5:28</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tatton Lake</td>
+<td>1</td>
+<td>6705</td>
+<td>Mini</td>
+<td>Dec.12</td>
+<td>11:11 - 12:40</td>
+<td></td>
+<td>Run in batch (below)</td>
+</tr>
+<tr class="odd">
+<td>Tatton Lake</td>
+<td>2</td>
+<td>9633</td>
+<td>BAR-LT</td>
+<td>Dec.12</td>
+<td>12:41 - 15:08</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Thaddus Lake</td>
+<td>1</td>
+<td>9584</td>
+<td>BAR-LT</td>
+<td>Dec.12</td>
+<td>16:56 - 19:28</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Thaddus Lake</td>
+<td>2</td>
+<td>5976</td>
+<td>Mini</td>
+<td>Dec.12</td>
+<td>15:21 - 16:56</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Watson Creek</td>
+<td>1</td>
+<td>9157</td>
+<td>BAR-LT</td>
+<td>Dec.12</td>
+<td>21:06 - 23:28</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Watson Creek</td>
+<td>2</td>
+<td>7759</td>
+<td>Mini</td>
+<td>Dec.12</td>
+<td>19:40 - 21:07</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wildhorse Meadow</td>
+<td>1</td>
+<td>9072</td>
+<td>BAR-LT</td>
+<td>Dec.12</td>
+<td>23:29 - 1:50 (+1)</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Wildhorse Meadow</td>
+<td>2</td>
+<td>9799</td>
+<td>BAR-LT</td>
+<td>Dec.13</td>
+<td>1:50 - 4:10</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Winthrow Creek</td>
+<td>1</td>
+<td>9065</td>
+<td>BAR-LT</td>
+<td>Dec.13</td>
+<td>4:11 - 6:31</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Winthrow Creek</td>
+<td>2</td>
+<td>9171</td>
+<td>BAR-LT</td>
+<td>Dec.13</td>
+<td>6:31 - 8:53</td>
 <td></td>
 <td></td>
 </tr>
