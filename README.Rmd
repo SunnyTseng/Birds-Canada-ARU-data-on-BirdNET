@@ -17,6 +17,8 @@ The ARU data was collected by Birds Canada during 2023 breeding season in the ar
 
 *This session is still under developing*
 
+[working notes](./docs/working-notes.md)
+
 1.  Data organization
 2.  Data exploration
 3.  Processing data through BirdNET GUI

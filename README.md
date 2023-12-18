@@ -15,11 +15,13 @@ of the ARU.
 
 *This session is still under developing*
 
+[working notes](./docs/working-notes.md)
+
 1.  Data organization
 2.  Data exploration
 3.  Processing data through BirdNET GUI
 4.  Data wrangling and cleaning
-5.  Final summarizing (could try a new [R package](https://github.com/nationalparkservice/NSNSDAcoustics#assessing-birdnet-results))
+5.  Final summarizing
 
 ## BirdNET Analyzer GUI settings
 
