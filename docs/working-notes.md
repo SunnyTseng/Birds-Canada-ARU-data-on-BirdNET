@@ -18,6 +18,15 @@ Working notes
 
 - Contacted Connor for potential tools for summarize
 
+- Partially finished the R code for combining data
+
+- Get approval from David Bradley for the output format
+
 ### Dec. 15, 2023
 
 - Receive message from Birds Canada and stop the current analysis
+- Next step:
+  - Combine BirdNET output file for each site, each ARU. Using the
+    current R code (need to update for Mini and BAT-LT), and use the one
+    recommended by Connor
+  - Produce the summary plots for each sites
