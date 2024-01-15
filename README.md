@@ -1,6 +1,5 @@
 ARU data processing on BirdNET for Birds Canada
 ================
-Sunny Tseng
 
 ## Introduction
 
@@ -12,8 +11,6 @@ this project through BirdNET, and provide detection information for each
 of the ARU.
 
 ## Workflow
-
-[working notes](./docs/working-notes.md)
 
 1.  Data organization
 2.  Data exploration
@@ -42,9 +39,15 @@ model version that used in the GUI is
   - Batch size: 4
   - Threads: 4
 
-## Output format
+## Output
 
-- One excel file will be produced for each site, each ARU, with the
+- All the BirdNET output files can be found [HERE](./data/cleaned), and
+  the processing schedule section includes details for individual ARU
+  sites.
+
+<!-- -->
+
+- One excel file was produced for each site, each ARU, with the
   following naming rule: `site_location_aruid_type.csv`
 
 - Each row of the data frame represents single BirdNET detection
@@ -68,8 +71,7 @@ model version that used in the GUI is
 
 ## Processing schedule
 
-All files can be found [HERE](./data/cleaned), and the followings are
-details for individual ARU sites.
+- [Working notes](./docs/working-notes.md)
 
 <table style="width:96%;">
 <colgroup>

@@ -1,6 +1,6 @@
 ---
 title: "ARU data processing on BirdNET for Birds Canada"
-author: "Sunny Tseng"
+#author: "Sunny Tseng"
 #date: "`r Sys.Date()`"
 output: github_document
 ---
@@ -14,8 +14,6 @@ knitr::opts_chunk$set(echo = TRUE)
 The ARU data was collected by Birds Canada during 2023 breeding season in the area of Chilcotin, Cariboo, BC, Canada. A total of 21 sites were set up, with each site having 2 ARU locations. The goal of this repository is to analyzing all the ARU recordings that collected from this project through BirdNET, and provide detection information for each of the ARU.
 
 ## Workflow
-
-[working notes](./docs/working-notes.md)
 
 1.  Data organization
 2.  Data exploration
@@ -40,9 +38,14 @@ All the analysis will be done on [BirdNET Analyzer](https://github.com/kahst/Bir
     -   Batch size: 4
     -   Threads: 4
 
-## Output format
+## Output
 
--   One excel file will be produced for each site, each ARU, with the following naming rule: `site_location_aruid_type.csv`
+-   All the BirdNET output files can be found [HERE](./data/cleaned), and the processing schedule section includes details for individual ARU sites.
+
+```{=html}
+<!-- -->
+```
+-   One excel file was produced for each site, each ARU, with the following naming rule: `site_location_aruid_type.csv`
 
 -   Each row of the data frame represents single BirdNET detection
 
@@ -78,7 +81,7 @@ All the analysis will be done on [BirdNET Analyzer](https://github.com/kahst/Bir
 
 ## Processing schedule
 
-All files can be found [HERE](./data/cleaned), and the followings are details for individual ARU sites.
+-   [Working notes](./docs/working-notes.md)
 
 +---------------------+----------+--------+--------+--------+--------------------+------------------------------------------------------------+----------------------+
 | Site                | Location | ARU ID | Type   | Date   | Time               | Output                                                     | Note                 |
