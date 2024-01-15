@@ -76,7 +76,9 @@ All the analysis will be done on [BirdNET Analyzer](https://github.com/kahst/Bir
 | filepath        | file path of the original recording file                                                                                 |
 +-----------------+--------------------------------------------------------------------------------------------------------------------------+
 
-6## Processing schedule
+## Processing schedule
+
+All files can be found [HERE](./data/cleaned)
 
 +---------------------+----------+--------+--------+--------+--------------------+-------------------------------------------------+----------------------+
 | Site                | Location | ARU ID | Type   | Date   | Time               | Output                                          | Note                 |

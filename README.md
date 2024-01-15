@@ -66,7 +66,9 @@ model version that used in the GUI is
 | confidence      | confidence value for the detection provided by BirdNET. Higher confidence corresponded to higher probability of presence |
 | filepath        | file path of the original recording file                                                                                 |
 
-6## Processing schedule
+## Processing schedule
+
+All files can be found [HERE](./data/cleaned)
 
 <table style="width:96%;">
 <colgroup>
