@@ -28,26 +28,30 @@ site_data <- list.files(path = here("data", "raw", site_folder),
 
 
 # data wrangling ----------------------------------------------------------
-site_data_clean <- site_data %>%
-  mutate(site = site,
-         location = location,
-         aru_id = aru_id,
-         type = type,
-         date = str_extract(filepath, pattern = "\\d{8}(?=T)"), 
-         hour = str_extract(filepath, pattern = "(?<=T)\\d{2}")) %>%
-  select(site, location, aru_id, type, date, hour, start, end, scientific_name, common_name, confidence, filepath)
 
-
-# site_data_clean <- site_data %>%
-#   mutate(site = site,
-#          location = location,
-#          aru_id = aru_id,
-#          type = type,
-#          date = str_extract(filepath, pattern = "\\d{8}(?=T)"), 
-#          hour = str_extract(filepath, pattern = "(?<=SMA)\\d{2}")) %>%
-#   select(site, location, aru_id, type, date, hour, start, end, scientific_name, common_name, confidence, filepath)
-#   
+if(type == "BARLT"){
+  ### for BARLT
+  site_data_clean <- site_data %>%
+    mutate(site = site,
+           location = location,
+           aru_id = aru_id,
+           type = type,
+           date = str_extract(filepath, pattern = "\\d{8}(?=T)"), 
+           hour = str_extract(filepath, pattern = "(?<=T)\\d{2}")) %>%
+    select(site, location, aru_id, type, date, hour, start, end, scientific_name, common_name, confidence, filepath)
   
+}else{
+  ### for Mini
+  site_data_clean <- site_data %>%
+    mutate(site = site,
+           location = location,
+           aru_id = aru_id,
+           type = type,
+           date = filepath %>% str_split_i("SMA", i = 2) %>% str_split_i("_", i = 2),
+           hour = filepath %>% str_split_i("SMA", i = 2) %>% str_split_i("_", i = 3) %>% str_sub(start = 1, end = 2)) %>%
+    select(site, location, aru_id, type, date, hour, start, end, scientific_name, common_name, confidence, filepath)
+}
+
 
 # saving the final file ---------------------------------------------------
 write_csv(site_data_clean, here("data", "cleaned", paste0(site_folder, ".csv")))
