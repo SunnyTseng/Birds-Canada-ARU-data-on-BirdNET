@@ -13,8 +13,6 @@ of the ARU.
 
 ## Workflow
 
-*This session is still under developing*
-
 [working notes](./docs/working-notes.md)
 
 1.  Data organization
@@ -30,10 +28,11 @@ Analyzer](https://github.com/kahst/BirdNET-Analyzer) GUI on Windows. The
 model version that used in the GUI is
 *BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile*.
 
-- Species by location tab
+- Species by location: setting the location and time would enhance the
+  precision of detection.
   - latitude: 51 or 52, base on site location
   - longitude: -121 or -122, base on site location
-  - week: 24, mid June
+  - week: 24, mid June, base on the time that the recording was made
 - Inference settings
   - Minimum confidence: 0.5 (default)
   - Sensitivity: 1 (default)

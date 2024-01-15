@@ -1,6 +1,6 @@
 Working notes
 ================
-2023-12-18
+2024-01-15
 
 ### Dec. 1, 2023
 
@@ -30,3 +30,13 @@ Working notes
     current R code (need to update for Mini and BAT-LT), and use the one
     recommended by Connor
   - Produce the summary plots for each sites
+
+### Jan. 15, 2024
+
+- Signed the contract with Birds Canada6
+
+- Summarize all the raw data into cleaned version
+
+- Noticed that the target species, Yellow Rail, might not be included in
+  the detection list. Double check with David again to see whether
+  re-run the analysis is needed. Do one only for the Yellow-Rail.
