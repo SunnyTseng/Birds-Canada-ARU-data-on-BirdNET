@@ -1,4 +1,4 @@
-ARU data processing on BirdNET for Birds Canada
+ARU data processing on BirdNET for Birds Canada (west)
 ================
 
 ## Introduction
@@ -20,7 +20,7 @@ of the ARU.
 
 ## BirdNET Analyzer GUI settings
 
-All the analysis will be done on [BirdNET
+All the analyses were done on [BirdNET
 Analyzer](https://github.com/kahst/BirdNET-Analyzer) GUI on Windows. The
 model version that used in the GUI is
 *BirdNET_GLOBAL_6K_V2.4_Model_FP32.tfile*.
@@ -44,14 +44,9 @@ model version that used in the GUI is
 - All the BirdNET output files can be found [HERE](./data/cleaned), and
   the processing schedule section includes details for individual ARU
   sites.
-
-<!-- -->
-
 - One excel file was produced for each site, each ARU, with the
   following naming rule: `site_location_aruid_type.csv`
-
 - Each row of the data frame represents single BirdNET detection
-
 - Columns of the data set are explained below:
 
 | Column name     | Description                                                                                                              |
