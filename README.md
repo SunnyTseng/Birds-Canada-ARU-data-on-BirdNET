@@ -66,18 +66,18 @@ model version that used in the GUI is
 | confidence      | confidence value for the detection provided by BirdNET. Higher confidence corresponded to higher probability of presence |
 | filepath        | file path of the original recording file                                                                                 |
 
-## Processing schedule
+6## Processing schedule
 
-<table style="width:95%;">
+<table style="width:96%;">
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 9%" />
-<col style="width: 7%" />
-<col style="width: 7%" />
-<col style="width: 7%" />
-<col style="width: 17%" />
-<col style="width: 7%" />
-<col style="width: 19%" />
+<col style="width: 13%" />
+<col style="width: 6%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 13%" />
+<col style="width: 31%" />
+<col style="width: 14%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -99,7 +99,7 @@ model version that used in the GUI is
 <td>BAR-LT</td>
 <td>Dec.04</td>
 <td>17:10 - 20:46</td>
-<td></td>
+<td><a href="./data/cleaned/AxeLake_1_9126_BARLT.csv">file</a></td>
 <td>3.5 hr</td>
 </tr>
 <tr class="even">
