@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_2\Fiftynine Creek\ARU_9782 (Site 1)\20517635_20230620_YellowRail2023 [+51.23249-121.57449]\nocturnal_random_selected\FIFTYNINE1_20230620_034000.wav,57.0,60.0,Chordeiles minor,Common Nighthawk,0.6217,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\684088f74cd800171d7d84116b36d9fc94d24255\focal_species_list_with_sci_name.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
