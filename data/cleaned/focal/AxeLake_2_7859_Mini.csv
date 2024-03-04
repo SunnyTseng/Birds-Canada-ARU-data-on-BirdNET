@@ -1,0 +1,73 @@
+site,location,aru_id,type,date,hour,start,end,scientific_name,common_name,confidence,filepath
+AxeLake,2,7859,Mini,20230603,22,255,258,Porzana carolina,Sora,0.5435,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230603_223000.wav
+AxeLake,2,7859,Mini,20230603,22,258,261,Porzana carolina,Sora,0.5548,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230603_223000.wav
+AxeLake,2,7859,Mini,20230603,22,45,48,Porzana carolina,Sora,0.5649,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230603_224500.wav
+AxeLake,2,7859,Mini,20230603,22,51,54,Porzana carolina,Sora,0.7002,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230603_224500.wav
+AxeLake,2,7859,Mini,20230603,22,120,123,Porzana carolina,Sora,0.702,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230603_224500.wav
+AxeLake,2,7859,Mini,20230603,22,150,153,Porzana carolina,Sora,0.5266,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230603_224500.wav
+AxeLake,2,7859,Mini,20230604,03,21,24,Porzana carolina,Sora,0.7107,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230604_030000.wav
+AxeLake,2,7859,Mini,20230605,22,213,216,Euphagus carolinus,Rusty Blackbird,0.5216,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230605_223000.wav
+AxeLake,2,7859,Mini,20230606,01,270,273,Porzana carolina,Sora,0.8813,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230606_010000.wav
+AxeLake,2,7859,Mini,20230606,02,33,36,Porzana carolina,Sora,0.9459,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230606_020000.wav
+AxeLake,2,7859,Mini,20230606,07,99,102,Vireo gilvus,Warbling Vireo,0.5323,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230606_070000.wav
+AxeLake,2,7859,Mini,20230607,08,153,156,Vireo gilvus,Warbling Vireo,0.6153,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230607_083000.wav
+AxeLake,2,7859,Mini,20230607,09,162,165,Vireo gilvus,Warbling Vireo,0.5377,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230607_090000.wav
+AxeLake,2,7859,Mini,20230607,09,159,162,Vireo gilvus,Warbling Vireo,0.6365,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230607_093000.wav
+AxeLake,2,7859,Mini,20230608,02,279,282,Porzana carolina,Sora,0.5533,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_024500.wav
+AxeLake,2,7859,Mini,20230608,07,132,135,Vireo gilvus,Warbling Vireo,0.7056,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_070000.wav
+AxeLake,2,7859,Mini,20230608,07,264,267,Vireo gilvus,Warbling Vireo,0.6645,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_071500.wav
+AxeLake,2,7859,Mini,20230608,09,207,210,Vireo gilvus,Warbling Vireo,0.5888,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_090000.wav
+AxeLake,2,7859,Mini,20230608,23,129,132,Porzana carolina,Sora,0.71,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230608_234500.wav
+AxeLake,2,7859,Mini,20230609,03,186,189,Chordeiles minor,Common Nighthawk,0.9865,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230609_033000.wav
+AxeLake,2,7859,Mini,20230609,05,285,288,Myiarchus crinitus,Great Crested Flycatcher,0.6011,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230609_051500.wav
+AxeLake,2,7859,Mini,20230609,07,96,99,Vireo gilvus,Warbling Vireo,0.5333,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230609_073000.wav
+AxeLake,2,7859,Mini,20230610,04,174,177,Chordeiles minor,Common Nighthawk,0.7477,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230610_041500.wav
+AxeLake,2,7859,Mini,20230610,04,177,180,Chordeiles minor,Common Nighthawk,0.8849,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230610_041500.wav
+AxeLake,2,7859,Mini,20230610,04,213,216,Chordeiles minor,Common Nighthawk,0.5959,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230610_041500.wav
+AxeLake,2,7859,Mini,20230611,05,39,42,Vireo gilvus,Warbling Vireo,0.6659,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,60,63,Vireo gilvus,Warbling Vireo,0.5905,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,63,66,Vireo gilvus,Warbling Vireo,0.6303,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,66,69,Vireo gilvus,Warbling Vireo,0.5795,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,105,108,Vireo gilvus,Warbling Vireo,0.6106,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,117,120,Vireo gilvus,Warbling Vireo,0.8891,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,165,168,Vireo gilvus,Warbling Vireo,0.7379,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,177,180,Vireo gilvus,Warbling Vireo,0.8711,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,198,201,Vireo gilvus,Warbling Vireo,0.5078,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,210,213,Vireo gilvus,Warbling Vireo,0.683,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,216,219,Vireo gilvus,Warbling Vireo,0.7786,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,228,231,Vireo gilvus,Warbling Vireo,0.8089,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,246,249,Vireo gilvus,Warbling Vireo,0.7578,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,252,255,Vireo gilvus,Warbling Vireo,0.6435,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,267,270,Vireo gilvus,Warbling Vireo,0.7636,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,273,276,Vireo gilvus,Warbling Vireo,0.5486,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,05,285,288,Vireo gilvus,Warbling Vireo,0.632,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_054500.wav
+AxeLake,2,7859,Mini,20230611,06,0,3,Vireo gilvus,Warbling Vireo,0.7267,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_063000.wav
+AxeLake,2,7859,Mini,20230611,06,3,6,Vireo gilvus,Warbling Vireo,0.6912,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_063000.wav
+AxeLake,2,7859,Mini,20230611,06,24,27,Vireo gilvus,Warbling Vireo,0.5238,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230611_063000.wav
+AxeLake,2,7859,Mini,20230612,03,222,225,Chordeiles minor,Common Nighthawk,0.82,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_031500.wav
+AxeLake,2,7859,Mini,20230612,03,231,234,Chordeiles minor,Common Nighthawk,0.8554,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_031500.wav
+AxeLake,2,7859,Mini,20230612,08,102,105,Vireo gilvus,Warbling Vireo,0.5469,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_084500.wav
+AxeLake,2,7859,Mini,20230612,08,108,111,Vireo gilvus,Warbling Vireo,0.5985,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_084500.wav
+AxeLake,2,7859,Mini,20230612,08,120,123,Vireo gilvus,Warbling Vireo,0.7354,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_084500.wav
+AxeLake,2,7859,Mini,20230612,08,156,159,Vireo gilvus,Warbling Vireo,0.6995,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_084500.wav
+AxeLake,2,7859,Mini,20230612,09,48,51,Vireo gilvus,Warbling Vireo,0.6507,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,90,93,Vireo gilvus,Warbling Vireo,0.6109,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,99,102,Vireo gilvus,Warbling Vireo,0.5464,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,111,114,Vireo gilvus,Warbling Vireo,0.567,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,117,120,Vireo gilvus,Warbling Vireo,0.5443,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,132,135,Vireo gilvus,Warbling Vireo,0.6734,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,213,216,Vireo gilvus,Warbling Vireo,0.5732,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230612,09,294,297,Vireo gilvus,Warbling Vireo,0.5607,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230612_090000.wav
+AxeLake,2,7859,Mini,20230613,01,285,288,Porzana carolina,Sora,0.5923,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230613_011500.wav
+AxeLake,2,7859,Mini,20230613,01,297,300,Porzana carolina,Sora,0.563,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230613_011500.wav
+AxeLake,2,7859,Mini,20230614,23,141,144,Porzana carolina,Sora,0.8738,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230614_230000.wav
+AxeLake,2,7859,Mini,20230614,23,144,147,Porzana carolina,Sora,0.9144,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230614_230000.wav
+AxeLake,2,7859,Mini,20230614,23,165,168,Porzana carolina,Sora,0.8567,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230614_230000.wav
+AxeLake,2,7859,Mini,20230615,08,6,9,Vireo gilvus,Warbling Vireo,0.7002,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230615_081500.wav
+AxeLake,2,7859,Mini,20230615,08,117,120,Vireo gilvus,Warbling Vireo,0.7633,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230615_081500.wav
+AxeLake,2,7859,Mini,20230616,01,174,177,Podilymbus podiceps,Pied-billed Grebe,0.6121,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_013000.wav
+AxeLake,2,7859,Mini,20230616,01,177,180,Podilymbus podiceps,Pied-billed Grebe,0.9888,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_013000.wav
+AxeLake,2,7859,Mini,20230616,03,231,234,Chordeiles minor,Common Nighthawk,0.6522,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_034500.wav
+AxeLake,2,7859,Mini,20230616,03,246,249,Chordeiles minor,Common Nighthawk,0.9717,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230616_034500.wav
+AxeLake,2,7859,Mini,20230617,06,21,24,Parkesia noveboracensis,Northern Waterthrush,0.5544,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230617_061500.wav
+AxeLake,2,7859,Mini,20230619,03,93,96,Myiarchus crinitus,Great Crested Flycatcher,0.6522,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_1\Axe Lake\ARU_7859 (Site 2)\Data\SMA07859_20230619_030000.wav

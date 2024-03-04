@@ -41,9 +41,6 @@ model version that used in the GUI is
 
 ## Output
 
-- All the BirdNET output files can be found [HERE](./data/cleaned), and
-  the processing schedule section includes details for individual ARU
-  sites.
 - One excel file was produced for each site, each ARU, with the
   following naming rule: `site_location_aruid_type.csv`
 - Each row of the data frame represents single BirdNET detection
@@ -64,20 +61,23 @@ model version that used in the GUI is
 | confidence      | confidence value for the detection provided by BirdNET. Higher confidence corresponded to higher probability of presence |
 | filepath        | file path of the original recording file                                                                                 |
 
-## Processing schedule
+## Processing schedule & Output
 
 - [Working notes](./docs/working-notes.md)
+- Full list of BirdNET output files can be found for [All
+  Species](./data/cleaned/all) and [Focal Species](./data/cleaned/focal)
 
-<table style="width:96%;">
+<table style="width:97%;">
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 6%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 12%" />
-<col style="width: 35%" />
-<col style="width: 13%" />
+<col style="width: 9%" />
+<col style="width: 4%" />
+<col style="width: 3%" />
+<col style="width: 3%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 27%" />
+<col style="width: 26%" />
+<col style="width: 9%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -87,7 +87,8 @@ model version that used in the GUI is
 <th>Type</th>
 <th>Date</th>
 <th>Time</th>
-<th>Output</th>
+<th>Output (all)</th>
+<th>Output (focal)</th>
 <th>Note</th>
 </tr>
 </thead>
@@ -99,7 +100,9 @@ model version that used in the GUI is
 <td>BAR-LT</td>
 <td>Dec.04</td>
 <td>17:10 - 20:46</td>
-<td><a href="./data/cleaned/AxeLake_1_9126_BARLT.csv">file</a></td>
+<td><a href="./data/cleaned/all/AxeLake_1_9126_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/AxeLake_1_9126_BARLT.csv">file</a></td>
 <td>3.5 hr</td>
 </tr>
 <tr class="even">
@@ -109,7 +112,8 @@ model version that used in the GUI is
 <td>Mini</td>
 <td>Dec.04</td>
 <td>21:20 - 22:30</td>
-<td><a href="./data/cleaned/AxeLake_2_7859_Mini.csv">file</a></td>
+<td><a href="./data/cleaned/all/AxeLake_2_7859_Mini.csv">file</a></td>
+<td><a href="./data/cleaned/focal/AxeLake_2_7859_Mini.csv">file</a></td>
 <td>1.5 hr</td>
 </tr>
 <tr class="odd">
@@ -120,7 +124,8 @@ model version that used in the GUI is
 <td>Dec.06</td>
 <td>10:19 - 12:32</td>
 <td><a
-href="./data/cleaned/BaptisteMeadow_1_9742_BARLT.csv">file</a></td>
+href="./data/cleaned/all/BaptisteMeadow_1_9742_BARLT.csv">file</a></td>
+<td></td>
 <td>2 hr</td>
 </tr>
 <tr class="even">
@@ -131,7 +136,8 @@ href="./data/cleaned/BaptisteMeadow_1_9742_BARLT.csv">file</a></td>
 <td>Dec.04</td>
 <td>22:40 - 9:00 (+1)</td>
 <td><a
-href="./data/cleaned/BaptisteMeadow_2_9441_BARLT.csv">file</a></td>
+href="./data/cleaned/all/BaptisteMeadow_2_9441_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -142,7 +148,8 @@ href="./data/cleaned/BaptisteMeadow_2_9441_BARLT.csv">file</a></td>
 <td>Dec.06</td>
 <td>13:08 - 14:46</td>
 <td><a
-href="./data/cleaned/BigCreekControl_1_9089_BARLT.csv">file</a></td>
+href="./data/cleaned/all/BigCreekControl_1_9089_BARLT.csv">file</a></td>
+<td></td>
 <td>1.5 hr</td>
 </tr>
 <tr class="even">
@@ -154,7 +161,8 @@ href="./data/cleaned/BigCreekControl_1_9089_BARLT.csv">file</a></td>
 <td><p>10:20 -</p>
 <p>11:52</p></td>
 <td><a
-href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
+href="./data/cleaned/all/BigCreekControl_2_9515_BARLT.csv">file</a></td>
+<td></td>
 <td>1.5 hr</td>
 </tr>
 <tr class="odd">
@@ -164,7 +172,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.06</td>
 <td>14:58 - 16:20</td>
-<td><a href="./data/cleaned/BurnsonLake_1_7915_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/BurnsonLake_1_7915_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/BurnsonLake_1_7915_Mini.csv">file</a></td>
 <td>1.5 hr</td>
 </tr>
 <tr class="even">
@@ -174,7 +185,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.06</td>
 <td>16:20 - 18:10</td>
-<td><a href="./data/cleaned/BurnsonLake_2_9214_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/BurnsonLake_2_9214_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/BurnsonLake_2_9214_BARLT.csv">file</a></td>
 <td>2 hr</td>
 </tr>
 <tr class="odd">
@@ -184,7 +198,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.08</td>
 <td>19:09 - 20:36</td>
-<td><a href="./data/cleaned/ChilcoRanch_1_9807_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/ChilcoRanch_1_9807_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/ChilcoRanch_1_9807_BARLT.csv">file</a></td>
 <td>Run in batch (below)</td>
 </tr>
 <tr class="even">
@@ -194,7 +211,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.08</td>
 <td>17:41 - 19:08</td>
-<td><a href="./data/cleaned/ChilcoRanch_2_9603_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/ChilcoRanch_2_9603_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/ChilcoRanch_2_9603_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -204,7 +224,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.08</td>
 <td>21:57 - 23:50</td>
-<td><a href="./data/cleaned/ColpittLake_1_8792_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/ColpittLake_1_8792_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/ColpittLake_1_8792_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -214,7 +237,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.08</td>
 <td>20:46 - 21:57</td>
-<td><a href="./data/cleaned/ColpittLake_2_7255_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/ColpittLake_2_7255_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/ColpittLake_2_7255_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -224,7 +250,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.09</td>
 <td>00:34 - 02:35</td>
-<td><a href="./data/cleaned/DogCreekRoad_1_9029_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/DogCreekRoad_1_9029_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/DogCreekRoad_1_9029_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -234,7 +263,10 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.08</td>
 <td>11:56 - 00:34 (+1)</td>
-<td><a href="./data/cleaned/DogCreekRoad_2_7245_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/DogCreekRoad_2_7245_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/DogCreekRoad_2_7245_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -245,7 +277,9 @@ href="./data/cleaned/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>Dec.09</td>
 <td>2:36 - 4:36</td>
 <td><a
-href="./data/cleaned/EnterpriseRoad_1_9270_BARLT.csv">file</a></td>
+href="./data/cleaned/all/EnterpriseRoad_1_9270_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/EnterpriseRoad_1_9270_BARLT.csv">file</a></td>
 <td>Location was NA</td>
 </tr>
 <tr class="even">
@@ -256,7 +290,8 @@ href="./data/cleaned/EnterpriseRoad_1_9270_BARLT.csv">file</a></td>
 <td>Dec.09</td>
 <td>6:52 - 9:05</td>
 <td><a
-href="./data/cleaned/FiftynineCreek_1_9782_BARLT.csv">file</a></td>
+href="./data/cleaned/all/FiftynineCreek_1_9782_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -267,7 +302,8 @@ href="./data/cleaned/FiftynineCreek_1_9782_BARLT.csv">file</a></td>
 <td>Dec.09</td>
 <td>4:37 - 6:51</td>
 <td><a
-href="./data/cleaned/FiftynineCreek_2_8990_BARLT.csv">file</a></td>
+href="./data/cleaned/all/FiftynineCreek_2_8990_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -278,7 +314,8 @@ href="./data/cleaned/FiftynineCreek_2_8990_BARLT.csv">file</a></td>
 <td>Dec.11</td>
 <td>14:03 - 16:24</td>
 <td><a
-href="./data/cleaned/HelenaConservation_1_9235_BARLT.csv">file</a></td>
+href="./data/cleaned/all/HelenaConservation_1_9235_BARLT.csv">file</a></td>
+<td></td>
 <td>Run in batch (below)</td>
 </tr>
 <tr class="odd">
@@ -289,7 +326,8 @@ href="./data/cleaned/HelenaConservation_1_9235_BARLT.csv">file</a></td>
 <td>Dec.11</td>
 <td>11:16 - 14:02</td>
 <td><a
-href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
+href="./data/cleaned/all/HelenaConservation_2_9140_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -299,7 +337,10 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.11</td>
 <td>18:42 - 20:51</td>
-<td><a href="./data/cleaned/HelenaLake_1_9621_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/HelenaLake_1_9621_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/HelenaLake_1_9621_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -309,7 +350,10 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.11</td>
 <td>16:25 - 18:41</td>
-<td><a href="./data/cleaned/HelenaLake_2_8923_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/HelenaLake_2_8923_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/HelenaLake_2_8923_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -319,7 +363,10 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.11</td>
 <td>22:18 - 00:20 (+1)</td>
-<td><a href="./data/cleaned/LilypadLake_1_8860_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/LilypadLake_1_8860_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/LilypadLake_1_8860_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -329,7 +376,10 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.11</td>
 <td>21:02 - 22:08</td>
-<td><a href="./data/cleaned/LilypadLake_2_7836_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/LilypadLake_2_7836_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/LilypadLake_2_7836_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -339,7 +389,10 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.12</td>
 <td>00:32 - 1:53</td>
-<td><a href="./data/cleaned/MurphyLake_1_6663_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/MurphyLake_1_6663_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/MurphyLake_1_6663_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -349,7 +402,10 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.12</td>
 <td>2:04 - 3:25</td>
-<td><a href="./data/cleaned/MurphyLake_2_7710_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/MurphyLake_2_7710_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/focal/MurphyLake_2_7710_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -360,6 +416,7 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
+<td></td>
 <td>empty folder</td>
 </tr>
 <tr class="odd">
@@ -370,7 +427,8 @@ href="./data/cleaned/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td>Dec.12</td>
 <td>3:25 - 5:28</td>
 <td><a
-href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
+href="./data/cleaned/all/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -380,7 +438,9 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.12</td>
 <td>11:11 - 12:40</td>
-<td><a href="./data/cleaned/TattonLake_1_6705_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/TattonLake_1_6705_Mini.csv">file</a></td>
+<td></td>
 <td>Run in batch (below)</td>
 </tr>
 <tr class="odd">
@@ -390,7 +450,9 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.12</td>
 <td>12:41 - 15:08</td>
-<td><a href="./data/cleaned/TattonLake_2_9633_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/TattonLake_2_9633_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -400,7 +462,8 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.12</td>
 <td>16:56 - 19:28</td>
-<td><a href="./data/cleaned/Thaddus_1_9584_BARLT.csv">file</a></td>
+<td><a href="./data/cleaned/all/Thaddus_1_9584_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -410,7 +473,8 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.12</td>
 <td>15:21 - 16:56</td>
-<td><a href="./data/cleaned/Thaddus_2_5976_Mini.csv">file</a></td>
+<td><a href="./data/cleaned/all/Thaddus_2_5976_Mini.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -420,7 +484,9 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>BAR-LT</td>
 <td>Dec.12</td>
 <td>21:06 - 23:28</td>
-<td><a href="./data/cleaned/WatsonCreek_1_9157_BARLT.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/WatsonCreek_1_9157_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -430,7 +496,9 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>Mini</td>
 <td>Dec.12</td>
 <td>19:40 - 21:07</td>
-<td><a href="./data/cleaned/WatsonCreek_2_7759_Mini.csv">file</a></td>
+<td><a
+href="./data/cleaned/all/WatsonCreek_2_7759_Mini.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -441,7 +509,8 @@ href="./data/cleaned/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>Dec.12</td>
 <td>23:29 - 1:50 (+1)</td>
 <td><a
-href="./data/cleaned/WildhorseMeadow_1_9072_BARLT.csv">file</a></td>
+href="./data/cleaned/all/WildhorseMeadow_1_9072_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -452,7 +521,8 @@ href="./data/cleaned/WildhorseMeadow_1_9072_BARLT.csv">file</a></td>
 <td>Dec.13</td>
 <td>1:50 - 4:10</td>
 <td><a
-href="./data/cleaned/WildhorseMeadow_2_9799_BARLT.csv">file</a></td>
+href="./data/cleaned/all/WildhorseMeadow_2_9799_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -463,7 +533,8 @@ href="./data/cleaned/WildhorseMeadow_2_9799_BARLT.csv">file</a></td>
 <td>Dec.13</td>
 <td>4:11 - 6:31</td>
 <td><a
-href="./data/cleaned/WinthrowCreek_1_9065_BARLT.csv">file</a></td>
+href="./data/cleaned/all/WinthrowCreek_1_9065_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -474,7 +545,8 @@ href="./data/cleaned/WinthrowCreek_1_9065_BARLT.csv">file</a></td>
 <td>Dec.13</td>
 <td>6:31 - 8:53</td>
 <td><a
-href="./data/cleaned/WinthrowCreek_2_9171_BARLT.csv">file</a></td>
+href="./data/cleaned/all/WinthrowCreek_2_9171_BARLT.csv">file</a></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

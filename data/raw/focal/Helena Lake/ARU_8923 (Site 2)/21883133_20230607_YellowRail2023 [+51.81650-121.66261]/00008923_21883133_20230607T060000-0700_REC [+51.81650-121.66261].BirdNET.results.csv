@@ -1,2 +1,0 @@
-filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
-G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_2\Helena Lake\ARU_8923 (Site 2)\21883133_20230607_YellowRail2023 [+51.81650-121.66261]\00008923_21883133_20230607T060000-0700_REC [+51.81650-121.66261].wav,147.0,150.0,Fulica americana,American Coot,0.8855,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\684088f74cd800171d7d84116b36d9fc94d24255\focal_species_list_with_sci_name.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite

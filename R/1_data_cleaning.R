@@ -6,12 +6,12 @@ library(here)
 
 # function to transfer raw to cleaned data --------------------------------
 
-raw2clean <- function(site, location, aru_id, type){
+raw2clean <- function(site, location, aru_id, type, species_list){
   # import data  ------------------------------------------------------------
   
   site_folder <- paste(site, location, aru_id, type, sep = "_")
   
-  site_data <- list.files(path = here("data", "raw", site_folder), 
+  site_data <- list.files(path = here("data", "raw", species_list, site_folder), 
                           pattern = ".csv",
                           full.names = TRUE,
                           recursive = TRUE) %>%
@@ -54,17 +54,22 @@ raw2clean <- function(site, location, aru_id, type){
   
   
   # saving the final file ---------------------------------------------------
-  write_csv(site_data_clean, here("data", "cleaned", paste0(site_folder, ".csv")))
+  write_csv(site_data_clean, here("data", "cleaned", species_list, paste0(site_folder, ".csv")))
   
 }
 
 # parameters definition ---------------------------------------------------
-site <- "WinthrowCreek"
-location <- 2
-aru_id <- 9171
-type <- "BARLT"
+names <- list.files(here("data", "raw", "focal")) %>%
+  str_split(pattern = "_")
 
-raw2clean(site = site, location = location, aru_id = aru_id, type = type)
+for (i in 1:length(names)) {
+  site <- names[[i]][1]
+  location <- names[[i]][2]
+  aru_id <- names[[i]][3]
+  type <- names[[i]][4]
+  
+  raw2clean(site = site, location = location, aru_id = aru_id, type = type, species_list = "focal")
+}
 
 
 

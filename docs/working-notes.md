@@ -1,6 +1,6 @@
 Working notes
 ================
-2024-01-15
+2024-03-04
 
 ### Dec. 1, 2023
 
@@ -40,3 +40,13 @@ Working notes
 - Noticed that the target species, Yellow Rail, might not be included in
   the detection list. Double check with David again to see whether
   re-run the analysis is needed. Do one only for the Yellow-Rail.
+
+### Mar. 4, 2024
+
+- Provided invoice to Birds Canada
+
+- Re-run the focal species analysis on sites. Found issues with some
+  sites (no .csv files got saved with unknown reason)
+
+- Report the issue and submit the data that I have to Birds Canada David
+  Bradley
