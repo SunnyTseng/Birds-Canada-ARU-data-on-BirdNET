@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Thaddus Lake\ARU_9584 (Site 1)\11455525_20230607_YellowRail2023 [+51.93134-122.68828]\00009584_11455525_20230607T223000-0700_REC [+51.93134-122.68828].wav,207.0,210.0,Rallus limicola,Virginia Rail,0.8871,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\684088f74cd800171d7d84116b36d9fc94d24255\focal_species_list_with_sci_name.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
