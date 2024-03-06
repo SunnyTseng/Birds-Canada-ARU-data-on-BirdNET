@@ -1,0 +1,632 @@
+site,location,aru_id,type,date,hour,start,end,scientific_name,common_name,confidence,filepath
+WatsonCreek,2,7759,Mini,20230604,08,243,246,Vireo gilvus,Warbling Vireo,0.7351,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230604_084500.wav
+WatsonCreek,2,7759,Mini,20230604,08,249,252,Vireo gilvus,Warbling Vireo,0.5476,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230604_084500.wav
+WatsonCreek,2,7759,Mini,20230604,09,171,174,Vireo gilvus,Warbling Vireo,0.6868,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230604_091500.wav
+WatsonCreek,2,7759,Mini,20230605,04,84,87,Vireo gilvus,Warbling Vireo,0.8184,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_044500.wav
+WatsonCreek,2,7759,Mini,20230605,05,234,237,Vireo gilvus,Warbling Vireo,0.6473,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_053000.wav
+WatsonCreek,2,7759,Mini,20230605,05,246,249,Vireo gilvus,Warbling Vireo,0.8026,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_053000.wav
+WatsonCreek,2,7759,Mini,20230605,05,252,255,Vireo gilvus,Warbling Vireo,0.5878,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_053000.wav
+WatsonCreek,2,7759,Mini,20230605,05,267,270,Vireo gilvus,Warbling Vireo,0.6354,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_053000.wav
+WatsonCreek,2,7759,Mini,20230605,05,255,258,Vireo gilvus,Warbling Vireo,0.7351,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_054500.wav
+WatsonCreek,2,7759,Mini,20230605,05,264,267,Vireo gilvus,Warbling Vireo,0.503,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_054500.wav
+WatsonCreek,2,7759,Mini,20230605,06,279,282,Vireo gilvus,Warbling Vireo,0.6534,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_060000.wav
+WatsonCreek,2,7759,Mini,20230605,07,81,84,Vireo gilvus,Warbling Vireo,0.5377,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_070000.wav
+WatsonCreek,2,7759,Mini,20230605,07,99,102,Vireo gilvus,Warbling Vireo,0.5906,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_070000.wav
+WatsonCreek,2,7759,Mini,20230605,07,159,162,Vireo gilvus,Warbling Vireo,0.7269,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_070000.wav
+WatsonCreek,2,7759,Mini,20230605,07,120,123,Vireo gilvus,Warbling Vireo,0.684,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_073000.wav
+WatsonCreek,2,7759,Mini,20230605,07,129,132,Vireo gilvus,Warbling Vireo,0.562,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_074500.wav
+WatsonCreek,2,7759,Mini,20230605,22,63,66,Chordeiles minor,Common Nighthawk,0.6768,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_221500.wav
+WatsonCreek,2,7759,Mini,20230605,22,15,18,Chordeiles minor,Common Nighthawk,0.6179,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_224500.wav
+WatsonCreek,2,7759,Mini,20230605,22,30,33,Chordeiles minor,Common Nighthawk,0.9019,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_224500.wav
+WatsonCreek,2,7759,Mini,20230605,23,168,171,Chordeiles minor,Common Nighthawk,0.6723,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_230000.wav
+WatsonCreek,2,7759,Mini,20230605,23,237,240,Chordeiles minor,Common Nighthawk,0.784,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_230000.wav
+WatsonCreek,2,7759,Mini,20230605,23,270,273,Chordeiles minor,Common Nighthawk,0.9267,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_230000.wav
+WatsonCreek,2,7759,Mini,20230605,23,150,153,Porzana carolina,Sora,0.9607,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230605_233000.wav
+WatsonCreek,2,7759,Mini,20230606,00,177,180,Porzana carolina,Sora,0.8237,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_003000.wav
+WatsonCreek,2,7759,Mini,20230606,00,198,201,Porzana carolina,Sora,0.9303,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_003000.wav
+WatsonCreek,2,7759,Mini,20230606,02,105,108,Chordeiles minor,Common Nighthawk,0.9252,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,108,111,Chordeiles minor,Common Nighthawk,0.7582,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,114,117,Chordeiles minor,Common Nighthawk,0.8877,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,117,120,Chordeiles minor,Common Nighthawk,0.9619,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,129,132,Chordeiles minor,Common Nighthawk,0.9731,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,147,150,Chordeiles minor,Common Nighthawk,0.911,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,165,168,Chordeiles minor,Common Nighthawk,0.9269,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,171,174,Chordeiles minor,Common Nighthawk,0.6409,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,174,177,Chordeiles minor,Common Nighthawk,0.9827,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,177,180,Chordeiles minor,Common Nighthawk,0.9501,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,186,189,Chordeiles minor,Common Nighthawk,0.9832,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,189,192,Chordeiles minor,Common Nighthawk,0.8542,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,198,201,Chordeiles minor,Common Nighthawk,0.7908,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,210,213,Chordeiles minor,Common Nighthawk,0.9152,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,213,216,Chordeiles minor,Common Nighthawk,0.9821,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,216,219,Chordeiles minor,Common Nighthawk,0.8838,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,222,225,Chordeiles minor,Common Nighthawk,0.9492,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,228,231,Chordeiles minor,Common Nighthawk,0.9477,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,231,234,Chordeiles minor,Common Nighthawk,0.9372,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,234,237,Chordeiles minor,Common Nighthawk,0.8936,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,246,249,Chordeiles minor,Common Nighthawk,0.7415,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,264,267,Chordeiles minor,Common Nighthawk,0.5309,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,270,273,Chordeiles minor,Common Nighthawk,0.8465,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,273,276,Chordeiles minor,Common Nighthawk,0.7693,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,276,279,Chordeiles minor,Common Nighthawk,0.9302,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,285,288,Chordeiles minor,Common Nighthawk,0.9494,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_023000.wav
+WatsonCreek,2,7759,Mini,20230606,02,18,21,Chordeiles minor,Common Nighthawk,0.7551,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,21,24,Chordeiles minor,Common Nighthawk,0.813,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,27,30,Chordeiles minor,Common Nighthawk,0.9035,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,30,33,Chordeiles minor,Common Nighthawk,0.8577,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,42,45,Chordeiles minor,Common Nighthawk,0.9769,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,45,48,Chordeiles minor,Common Nighthawk,0.9752,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,48,51,Chordeiles minor,Common Nighthawk,0.941,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,51,54,Chordeiles minor,Common Nighthawk,0.9382,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,54,57,Chordeiles minor,Common Nighthawk,0.8481,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,84,87,Chordeiles minor,Common Nighthawk,0.8619,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,87,90,Chordeiles minor,Common Nighthawk,0.9646,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,90,93,Chordeiles minor,Common Nighthawk,0.9869,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,93,96,Chordeiles minor,Common Nighthawk,0.9571,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,168,171,Chordeiles minor,Common Nighthawk,0.9752,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,198,201,Chordeiles minor,Common Nighthawk,0.8595,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,210,213,Chordeiles minor,Common Nighthawk,0.7274,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,213,216,Chordeiles minor,Common Nighthawk,0.9688,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,216,219,Chordeiles minor,Common Nighthawk,0.9232,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,219,222,Chordeiles minor,Common Nighthawk,0.9724,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,252,255,Chordeiles minor,Common Nighthawk,0.9555,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,255,258,Chordeiles minor,Common Nighthawk,0.7063,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,258,261,Chordeiles minor,Common Nighthawk,0.8261,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,02,276,279,Chordeiles minor,Common Nighthawk,0.9595,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_024500.wav
+WatsonCreek,2,7759,Mini,20230606,03,39,42,Chordeiles minor,Common Nighthawk,0.7501,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,66,69,Chordeiles minor,Common Nighthawk,0.9849,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,72,75,Chordeiles minor,Common Nighthawk,0.9394,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,81,84,Chordeiles minor,Common Nighthawk,0.7844,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,96,99,Chordeiles minor,Common Nighthawk,0.9332,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,102,105,Chordeiles minor,Common Nighthawk,0.6237,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,117,120,Chordeiles minor,Common Nighthawk,0.8111,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,135,138,Chordeiles minor,Common Nighthawk,0.9395,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,138,141,Chordeiles minor,Common Nighthawk,0.9472,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,147,150,Chordeiles minor,Common Nighthawk,0.8129,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,201,204,Chordeiles minor,Common Nighthawk,0.9675,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,225,228,Chordeiles minor,Common Nighthawk,0.781,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,231,234,Chordeiles minor,Common Nighthawk,0.9283,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,237,240,Chordeiles minor,Common Nighthawk,0.8968,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,03,267,270,Chordeiles minor,Common Nighthawk,0.8637,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_031500.wav
+WatsonCreek,2,7759,Mini,20230606,06,267,270,Vireo gilvus,Warbling Vireo,0.5765,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_063000.wav
+WatsonCreek,2,7759,Mini,20230606,09,177,180,Vireo gilvus,Warbling Vireo,0.6214,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_090000.wav
+WatsonCreek,2,7759,Mini,20230606,09,228,231,Vireo gilvus,Warbling Vireo,0.5517,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_090000.wav
+WatsonCreek,2,7759,Mini,20230606,09,108,111,Vireo gilvus,Warbling Vireo,0.726,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,153,156,Vireo gilvus,Warbling Vireo,0.5711,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,204,207,Vireo gilvus,Warbling Vireo,0.5938,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,213,216,Vireo gilvus,Warbling Vireo,0.878,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,216,219,Vireo gilvus,Warbling Vireo,0.9123,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,225,228,Vireo gilvus,Warbling Vireo,0.6447,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,267,270,Vireo gilvus,Warbling Vireo,0.6203,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,279,282,Vireo gilvus,Warbling Vireo,0.7256,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,291,294,Vireo gilvus,Warbling Vireo,0.8882,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_091500.wav
+WatsonCreek,2,7759,Mini,20230606,09,96,99,Vireo gilvus,Warbling Vireo,0.5896,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_093000.wav
+WatsonCreek,2,7759,Mini,20230606,22,165,168,Porzana carolina,Sora,0.702,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_224500.wav
+WatsonCreek,2,7759,Mini,20230606,23,69,72,Chordeiles minor,Common Nighthawk,0.9278,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_231500.wav
+WatsonCreek,2,7759,Mini,20230606,23,72,75,Chordeiles minor,Common Nighthawk,0.7348,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_231500.wav
+WatsonCreek,2,7759,Mini,20230606,23,219,222,Porzana carolina,Sora,0.6896,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230606_233000.wav
+WatsonCreek,2,7759,Mini,20230607,02,6,9,Chordeiles minor,Common Nighthawk,0.5378,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,39,42,Chordeiles minor,Common Nighthawk,0.8326,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,42,45,Chordeiles minor,Common Nighthawk,0.7125,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,57,60,Chordeiles minor,Common Nighthawk,0.9405,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,66,69,Chordeiles minor,Common Nighthawk,0.8813,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,75,78,Chordeiles minor,Common Nighthawk,0.9704,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,123,126,Chordeiles minor,Common Nighthawk,0.6706,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,168,171,Chordeiles minor,Common Nighthawk,0.9842,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,174,177,Chordeiles minor,Common Nighthawk,0.7509,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,192,195,Chordeiles minor,Common Nighthawk,0.8808,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,02,195,198,Chordeiles minor,Common Nighthawk,0.8984,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_023000.wav
+WatsonCreek,2,7759,Mini,20230607,08,219,222,Vireo gilvus,Warbling Vireo,0.8252,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_081500.wav
+WatsonCreek,2,7759,Mini,20230607,08,240,243,Vireo gilvus,Warbling Vireo,0.5986,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_081500.wav
+WatsonCreek,2,7759,Mini,20230607,08,288,291,Vireo gilvus,Warbling Vireo,0.8386,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_081500.wav
+WatsonCreek,2,7759,Mini,20230607,08,297,300,Vireo gilvus,Warbling Vireo,0.51,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_081500.wav
+WatsonCreek,2,7759,Mini,20230607,09,219,222,Vireo gilvus,Warbling Vireo,0.5044,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_090000.wav
+WatsonCreek,2,7759,Mini,20230607,22,33,36,Chordeiles minor,Common Nighthawk,0.6366,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_223000.wav
+WatsonCreek,2,7759,Mini,20230607,22,39,42,Chordeiles minor,Common Nighthawk,0.6303,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_223000.wav
+WatsonCreek,2,7759,Mini,20230607,22,42,45,Chordeiles minor,Common Nighthawk,0.8271,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_223000.wav
+WatsonCreek,2,7759,Mini,20230607,22,45,48,Chordeiles minor,Common Nighthawk,0.9658,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_223000.wav
+WatsonCreek,2,7759,Mini,20230607,22,48,51,Chordeiles minor,Common Nighthawk,0.9525,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_223000.wav
+WatsonCreek,2,7759,Mini,20230607,22,51,54,Chordeiles minor,Common Nighthawk,0.7875,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_223000.wav
+WatsonCreek,2,7759,Mini,20230607,23,81,84,Porzana carolina,Sora,0.782,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,84,87,Porzana carolina,Sora,0.5002,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,87,90,Porzana carolina,Sora,0.9782,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,90,93,Porzana carolina,Sora,0.7276,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,96,99,Porzana carolina,Sora,0.9379,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,102,105,Porzana carolina,Sora,0.9051,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,180,183,Porzana carolina,Sora,0.6405,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_233000.wav
+WatsonCreek,2,7759,Mini,20230607,23,78,81,Porzana carolina,Sora,0.7411,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,81,84,Porzana carolina,Sora,0.6641,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,84,87,Porzana carolina,Sora,0.9326,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,102,105,Porzana carolina,Sora,0.943,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,138,141,Porzana carolina,Sora,0.852,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,150,153,Porzana carolina,Sora,0.9064,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,156,159,Porzana carolina,Sora,0.7081,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,159,162,Porzana carolina,Sora,0.8501,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,162,165,Porzana carolina,Sora,0.7427,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,165,168,Porzana carolina,Sora,0.7977,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,183,186,Porzana carolina,Sora,0.7171,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230607,23,201,204,Porzana carolina,Sora,0.6079,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230607_234500.wav
+WatsonCreek,2,7759,Mini,20230608,00,12,15,Porzana carolina,Sora,0.7209,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,24,27,Porzana carolina,Sora,0.607,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,27,30,Porzana carolina,Sora,0.8974,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,30,33,Porzana carolina,Sora,0.9492,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,36,39,Porzana carolina,Sora,0.8718,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,39,42,Porzana carolina,Sora,0.8675,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,60,63,Porzana carolina,Sora,0.5246,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,63,66,Porzana carolina,Sora,0.8495,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,66,69,Porzana carolina,Sora,0.7683,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,69,72,Porzana carolina,Sora,0.9403,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,72,75,Porzana carolina,Sora,0.949,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,75,78,Porzana carolina,Sora,0.6292,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,78,81,Porzana carolina,Sora,0.6562,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,81,84,Porzana carolina,Sora,0.7292,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,84,87,Porzana carolina,Sora,0.804,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,87,90,Porzana carolina,Sora,0.9444,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,96,99,Porzana carolina,Sora,0.6969,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,102,105,Porzana carolina,Sora,0.916,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,120,123,Porzana carolina,Sora,0.8737,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,141,144,Porzana carolina,Sora,0.5813,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,150,153,Porzana carolina,Sora,0.8953,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,153,156,Porzana carolina,Sora,0.6864,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,156,159,Porzana carolina,Sora,0.8904,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,159,162,Porzana carolina,Sora,0.5966,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,168,171,Porzana carolina,Sora,0.8314,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,171,174,Porzana carolina,Sora,0.6012,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,174,177,Porzana carolina,Sora,0.8705,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,183,186,Porzana carolina,Sora,0.8134,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,216,219,Porzana carolina,Sora,0.7241,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,246,249,Porzana carolina,Sora,0.6395,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,258,261,Porzana carolina,Sora,0.7833,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,261,264,Porzana carolina,Sora,0.5136,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,270,273,Porzana carolina,Sora,0.5248,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,276,279,Porzana carolina,Sora,0.9116,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,282,285,Porzana carolina,Sora,0.7745,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,285,288,Porzana carolina,Sora,0.8068,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,288,291,Porzana carolina,Sora,0.9362,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_001500.wav
+WatsonCreek,2,7759,Mini,20230608,00,15,18,Porzana carolina,Sora,0.7387,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_004500.wav
+WatsonCreek,2,7759,Mini,20230608,00,21,24,Porzana carolina,Sora,0.5548,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_004500.wav
+WatsonCreek,2,7759,Mini,20230608,00,24,27,Porzana carolina,Sora,0.6332,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_004500.wav
+WatsonCreek,2,7759,Mini,20230608,00,30,33,Porzana carolina,Sora,0.6331,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_004500.wav
+WatsonCreek,2,7759,Mini,20230608,00,48,51,Porzana carolina,Sora,0.8507,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_004500.wav
+WatsonCreek,2,7759,Mini,20230608,00,66,69,Porzana carolina,Sora,0.6877,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_004500.wav
+WatsonCreek,2,7759,Mini,20230608,01,3,6,Porzana carolina,Sora,0.8963,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_010000.wav
+WatsonCreek,2,7759,Mini,20230608,01,45,48,Porzana carolina,Sora,0.9447,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_010000.wav
+WatsonCreek,2,7759,Mini,20230608,01,51,54,Porzana carolina,Sora,0.5469,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_010000.wav
+WatsonCreek,2,7759,Mini,20230608,01,102,105,Porzana carolina,Sora,0.5642,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_010000.wav
+WatsonCreek,2,7759,Mini,20230608,01,291,294,Porzana carolina,Sora,0.6829,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_010000.wav
+WatsonCreek,2,7759,Mini,20230608,01,27,30,Porzana carolina,Sora,0.6174,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,36,39,Porzana carolina,Sora,0.7301,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,57,60,Porzana carolina,Sora,0.8651,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,60,63,Porzana carolina,Sora,0.896,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,93,96,Porzana carolina,Sora,0.5387,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,96,99,Porzana carolina,Sora,0.9472,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,99,102,Porzana carolina,Sora,0.7287,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,114,117,Porzana carolina,Sora,0.7516,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,147,150,Porzana carolina,Sora,0.5263,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,156,159,Porzana carolina,Sora,0.5582,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,189,192,Porzana carolina,Sora,0.6369,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,213,216,Porzana carolina,Sora,0.5445,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,219,222,Porzana carolina,Sora,0.5354,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,246,249,Porzana carolina,Sora,0.506,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_011500.wav
+WatsonCreek,2,7759,Mini,20230608,01,6,9,Rallus limicola,Virginia Rail,0.7334,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_013000.wav
+WatsonCreek,2,7759,Mini,20230608,01,69,72,Porzana carolina,Sora,0.6777,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_014500.wav
+WatsonCreek,2,7759,Mini,20230608,01,159,162,Porzana carolina,Sora,0.7449,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_014500.wav
+WatsonCreek,2,7759,Mini,20230608,02,60,63,Porzana carolina,Sora,0.5077,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_020000.wav
+WatsonCreek,2,7759,Mini,20230608,02,30,33,Porzana carolina,Sora,0.9692,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,33,36,Porzana carolina,Sora,0.8268,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,36,39,Porzana carolina,Sora,0.9343,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,39,42,Porzana carolina,Sora,0.9275,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,42,45,Porzana carolina,Sora,0.8308,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,45,48,Porzana carolina,Sora,0.8532,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,48,51,Porzana carolina,Sora,0.8284,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,51,54,Porzana carolina,Sora,0.7161,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,54,57,Porzana carolina,Sora,0.9382,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,57,60,Porzana carolina,Sora,0.8652,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,60,63,Porzana carolina,Sora,0.6226,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,63,66,Porzana carolina,Sora,0.7692,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,66,69,Porzana carolina,Sora,0.7509,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,69,72,Porzana carolina,Sora,0.7288,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,75,78,Porzana carolina,Sora,0.9457,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,78,81,Porzana carolina,Sora,0.862,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,81,84,Porzana carolina,Sora,0.9754,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,84,87,Porzana carolina,Sora,0.8657,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,87,90,Porzana carolina,Sora,0.9203,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,90,93,Porzana carolina,Sora,0.9188,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,93,96,Porzana carolina,Sora,0.8977,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,96,99,Porzana carolina,Sora,0.8897,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,99,102,Porzana carolina,Sora,0.9372,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,102,105,Porzana carolina,Sora,0.6465,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,105,108,Porzana carolina,Sora,0.8411,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,108,111,Porzana carolina,Sora,0.5824,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,111,114,Porzana carolina,Sora,0.7095,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,114,117,Porzana carolina,Sora,0.8695,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,123,126,Porzana carolina,Sora,0.7554,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,126,129,Porzana carolina,Sora,0.7457,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,129,132,Porzana carolina,Sora,0.8987,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,132,135,Porzana carolina,Sora,0.5154,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,135,138,Porzana carolina,Sora,0.5958,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_021500.wav
+WatsonCreek,2,7759,Mini,20230608,02,141,144,Chordeiles minor,Common Nighthawk,0.8048,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_023000.wav
+WatsonCreek,2,7759,Mini,20230608,02,114,117,Porzana carolina,Sora,0.6073,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_024500.wav
+WatsonCreek,2,7759,Mini,20230608,02,147,150,Porzana carolina,Sora,0.7849,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_024500.wav
+WatsonCreek,2,7759,Mini,20230608,03,21,24,Chordeiles minor,Common Nighthawk,0.6813,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,27,30,Chordeiles minor,Common Nighthawk,0.8489,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,57,60,Porzana carolina,Sora,0.543,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,87,90,Chordeiles minor,Common Nighthawk,0.8083,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,117,120,Porzana carolina,Sora,0.5831,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,159,162,Porzana carolina,Sora,0.7343,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,168,171,Porzana carolina,Sora,0.8085,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,198,201,Porzana carolina,Sora,0.654,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,03,294,297,Porzana carolina,Sora,0.508,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_030000.wav
+WatsonCreek,2,7759,Mini,20230608,04,63,66,Podilymbus podiceps,Pied-billed Grebe,0.6164,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_044500.wav
+WatsonCreek,2,7759,Mini,20230608,22,126,129,Porzana carolina,Sora,0.6223,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_221500.wav
+WatsonCreek,2,7759,Mini,20230608,22,129,132,Porzana carolina,Sora,0.804,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_221500.wav
+WatsonCreek,2,7759,Mini,20230608,22,183,186,Porzana carolina,Sora,0.541,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_223000.wav
+WatsonCreek,2,7759,Mini,20230608,22,186,189,Porzana carolina,Sora,0.5636,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_223000.wav
+WatsonCreek,2,7759,Mini,20230608,22,3,6,Porzana carolina,Sora,0.8139,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,18,21,Porzana carolina,Sora,0.542,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,21,24,Porzana carolina,Sora,0.5724,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,30,33,Porzana carolina,Sora,0.6269,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,33,36,Porzana carolina,Sora,0.605,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,54,57,Porzana carolina,Sora,0.5497,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,93,96,Porzana carolina,Sora,0.8027,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,102,105,Porzana carolina,Sora,0.7181,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,114,117,Porzana carolina,Sora,0.5866,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,126,129,Porzana carolina,Sora,0.7986,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,132,135,Porzana carolina,Sora,0.7132,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,138,141,Porzana carolina,Sora,0.6597,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,141,144,Porzana carolina,Sora,0.5823,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,144,147,Porzana carolina,Sora,0.5119,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,153,156,Porzana carolina,Sora,0.7274,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,156,159,Porzana carolina,Sora,0.6995,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,162,165,Porzana carolina,Sora,0.5449,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,165,168,Porzana carolina,Sora,0.777,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,22,210,213,Porzana carolina,Sora,0.6884,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_224500.wav
+WatsonCreek,2,7759,Mini,20230608,23,237,240,Porzana carolina,Sora,0.7741,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_230000.wav
+WatsonCreek,2,7759,Mini,20230608,23,240,243,Porzana carolina,Sora,0.874,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_230000.wav
+WatsonCreek,2,7759,Mini,20230608,23,294,297,Porzana carolina,Sora,0.8721,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230608_233000.wav
+WatsonCreek,2,7759,Mini,20230609,00,30,33,Porzana carolina,Sora,0.7851,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,33,36,Porzana carolina,Sora,0.9556,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,78,81,Porzana carolina,Sora,0.5824,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,147,150,Porzana carolina,Sora,0.5089,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,150,153,Porzana carolina,Sora,0.7655,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,153,156,Porzana carolina,Sora,0.6769,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,168,171,Porzana carolina,Sora,0.8254,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,171,174,Porzana carolina,Sora,0.8441,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,174,177,Porzana carolina,Sora,0.8879,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,180,183,Porzana carolina,Sora,0.864,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,192,195,Porzana carolina,Sora,0.5329,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,195,198,Porzana carolina,Sora,0.6983,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,255,258,Porzana carolina,Sora,0.7037,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_000000.wav
+WatsonCreek,2,7759,Mini,20230609,00,141,144,Porzana carolina,Sora,0.5647,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_001500.wav
+WatsonCreek,2,7759,Mini,20230609,00,180,183,Porzana carolina,Sora,0.6265,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_001500.wav
+WatsonCreek,2,7759,Mini,20230609,00,237,240,Porzana carolina,Sora,0.7675,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_001500.wav
+WatsonCreek,2,7759,Mini,20230609,00,252,255,Porzana carolina,Sora,0.7363,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_001500.wav
+WatsonCreek,2,7759,Mini,20230609,00,60,63,Porzana carolina,Sora,0.9209,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,63,66,Porzana carolina,Sora,0.7615,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,216,219,Porzana carolina,Sora,0.9702,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,219,222,Porzana carolina,Sora,0.5298,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,222,225,Porzana carolina,Sora,0.8668,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,225,228,Porzana carolina,Sora,0.7136,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,228,231,Porzana carolina,Sora,0.6228,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,294,297,Porzana carolina,Sora,0.5958,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_003000.wav
+WatsonCreek,2,7759,Mini,20230609,00,231,234,Porzana carolina,Sora,0.919,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,00,237,240,Porzana carolina,Sora,0.7504,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,00,273,276,Porzana carolina,Sora,0.636,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,00,285,288,Porzana carolina,Sora,0.7386,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,00,288,291,Porzana carolina,Sora,0.6342,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,00,291,294,Porzana carolina,Sora,0.9129,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,00,294,297,Porzana carolina,Sora,0.8778,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_004500.wav
+WatsonCreek,2,7759,Mini,20230609,01,54,57,Porzana carolina,Sora,0.9055,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,84,87,Porzana carolina,Sora,0.8472,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,138,141,Porzana carolina,Sora,0.8913,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,141,144,Porzana carolina,Sora,0.5774,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,144,147,Porzana carolina,Sora,0.7455,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,153,156,Porzana carolina,Sora,0.7696,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,171,174,Porzana carolina,Sora,0.8275,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,174,177,Porzana carolina,Sora,0.9122,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,189,192,Porzana carolina,Sora,0.9414,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,192,195,Porzana carolina,Sora,0.908,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,195,198,Porzana carolina,Sora,0.699,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,198,201,Porzana carolina,Sora,0.7678,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,204,207,Porzana carolina,Sora,0.5337,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,255,258,Porzana carolina,Sora,0.7274,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,01,279,282,Porzana carolina,Sora,0.537,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_011500.wav
+WatsonCreek,2,7759,Mini,20230609,02,144,147,Porzana carolina,Sora,0.9086,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,156,159,Porzana carolina,Sora,0.5073,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,192,195,Porzana carolina,Sora,0.8506,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,207,210,Porzana carolina,Sora,0.849,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,249,252,Porzana carolina,Sora,0.5572,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,276,279,Porzana carolina,Sora,0.5851,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,279,282,Porzana carolina,Sora,0.9785,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_021500.wav
+WatsonCreek,2,7759,Mini,20230609,02,6,9,Porzana carolina,Sora,0.6388,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,9,12,Porzana carolina,Sora,0.8395,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,12,15,Porzana carolina,Sora,0.8138,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,18,21,Porzana carolina,Sora,0.9148,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,159,162,Porzana carolina,Sora,0.8768,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,162,165,Porzana carolina,Sora,0.7453,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,171,174,Porzana carolina,Sora,0.5687,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,177,180,Porzana carolina,Sora,0.6296,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,186,189,Porzana carolina,Sora,0.9563,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,189,192,Porzana carolina,Sora,0.5939,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,192,195,Porzana carolina,Sora,0.9372,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,198,201,Porzana carolina,Sora,0.8487,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,201,204,Porzana carolina,Sora,0.8234,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,234,237,Porzana carolina,Sora,0.8177,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,252,255,Porzana carolina,Sora,0.6655,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,255,258,Porzana carolina,Sora,0.5406,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,276,279,Porzana carolina,Sora,0.7364,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_023000.wav
+WatsonCreek,2,7759,Mini,20230609,02,225,228,Myiarchus crinitus,Great Crested Flycatcher,0.524,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_024500.wav
+WatsonCreek,2,7759,Mini,20230609,03,0,3,Porzana carolina,Sora,0.8168,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_030000.wav
+WatsonCreek,2,7759,Mini,20230609,03,18,21,Porzana carolina,Sora,0.5267,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_030000.wav
+WatsonCreek,2,7759,Mini,20230609,03,27,30,Porzana carolina,Sora,0.7298,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_030000.wav
+WatsonCreek,2,7759,Mini,20230609,03,141,144,Myiarchus crinitus,Great Crested Flycatcher,0.8077,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_030000.wav
+WatsonCreek,2,7759,Mini,20230609,03,27,30,Porzana carolina,Sora,0.8808,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,123,126,Porzana carolina,Sora,0.5602,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,138,141,Porzana carolina,Sora,0.8443,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,144,147,Porzana carolina,Sora,0.9289,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,156,159,Porzana carolina,Sora,0.9622,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,159,162,Porzana carolina,Sora,0.929,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,165,168,Porzana carolina,Sora,0.9104,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,168,171,Porzana carolina,Sora,0.925,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,171,174,Porzana carolina,Sora,0.9505,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,174,177,Porzana carolina,Sora,0.7652,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,177,180,Porzana carolina,Sora,0.873,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,180,183,Porzana carolina,Sora,0.5464,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,210,213,Porzana carolina,Sora,0.8028,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,246,249,Porzana carolina,Sora,0.7058,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_031500.wav
+WatsonCreek,2,7759,Mini,20230609,03,0,3,Porzana carolina,Sora,0.8074,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,96,99,Porzana carolina,Sora,0.8432,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,105,108,Porzana carolina,Sora,0.697,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,108,111,Porzana carolina,Sora,0.8941,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,111,114,Porzana carolina,Sora,0.7742,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,114,117,Porzana carolina,Sora,0.8482,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,120,123,Porzana carolina,Sora,0.9165,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,123,126,Porzana carolina,Sora,0.517,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,132,135,Porzana carolina,Sora,0.9573,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,135,138,Porzana carolina,Sora,0.9732,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,138,141,Porzana carolina,Sora,0.6356,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,144,147,Porzana carolina,Sora,0.5999,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,162,165,Porzana carolina,Sora,0.514,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,165,168,Porzana carolina,Sora,0.8907,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,177,180,Porzana carolina,Sora,0.6133,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,186,189,Porzana carolina,Sora,0.5286,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,189,192,Porzana carolina,Sora,0.7931,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,195,198,Porzana carolina,Sora,0.8889,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,198,201,Porzana carolina,Sora,0.5938,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,267,270,Porzana carolina,Sora,0.5716,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,03,279,282,Porzana carolina,Sora,0.6065,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_033000.wav
+WatsonCreek,2,7759,Mini,20230609,07,204,207,Vireo gilvus,Warbling Vireo,0.7769,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_071500.wav
+WatsonCreek,2,7759,Mini,20230609,08,204,207,Vireo gilvus,Warbling Vireo,0.5268,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_080000.wav
+WatsonCreek,2,7759,Mini,20230609,08,78,81,Vireo gilvus,Warbling Vireo,0.6071,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_081500.wav
+WatsonCreek,2,7759,Mini,20230609,09,90,93,Vireo gilvus,Warbling Vireo,0.5946,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_093000.wav
+WatsonCreek,2,7759,Mini,20230609,22,30,33,Chordeiles minor,Common Nighthawk,0.5989,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_221500.wav
+WatsonCreek,2,7759,Mini,20230609,22,39,42,Chordeiles minor,Common Nighthawk,0.9021,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_221500.wav
+WatsonCreek,2,7759,Mini,20230609,22,48,51,Chordeiles minor,Common Nighthawk,0.8974,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_221500.wav
+WatsonCreek,2,7759,Mini,20230609,22,114,117,Chordeiles minor,Common Nighthawk,0.6389,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_221500.wav
+WatsonCreek,2,7759,Mini,20230609,22,120,123,Chordeiles minor,Common Nighthawk,0.8464,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_221500.wav
+WatsonCreek,2,7759,Mini,20230609,22,135,138,Chordeiles minor,Common Nighthawk,0.6964,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_221500.wav
+WatsonCreek,2,7759,Mini,20230609,22,0,3,Porzana carolina,Sora,0.9631,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_224500.wav
+WatsonCreek,2,7759,Mini,20230609,22,3,6,Porzana carolina,Sora,0.8517,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_224500.wav
+WatsonCreek,2,7759,Mini,20230609,22,6,9,Porzana carolina,Sora,0.7442,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_224500.wav
+WatsonCreek,2,7759,Mini,20230609,22,12,15,Porzana carolina,Sora,0.874,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_224500.wav
+WatsonCreek,2,7759,Mini,20230609,23,57,60,Porzana carolina,Sora,0.9011,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,60,63,Porzana carolina,Sora,0.8374,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,66,69,Porzana carolina,Sora,0.9052,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,75,78,Porzana carolina,Sora,0.9154,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,81,84,Porzana carolina,Sora,0.5171,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,84,87,Porzana carolina,Sora,0.9715,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,87,90,Porzana carolina,Sora,0.9748,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,105,108,Porzana carolina,Sora,0.9384,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,162,165,Porzana carolina,Sora,0.9813,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,165,168,Porzana carolina,Sora,0.9108,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,204,207,Porzana carolina,Sora,0.9122,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,222,225,Porzana carolina,Sora,0.8702,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_230000.wav
+WatsonCreek,2,7759,Mini,20230609,23,30,33,Porzana carolina,Sora,0.9763,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,33,36,Porzana carolina,Sora,0.988,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,36,39,Porzana carolina,Sora,0.982,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,39,42,Porzana carolina,Sora,0.9823,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,42,45,Porzana carolina,Sora,0.9901,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,45,48,Porzana carolina,Sora,0.8575,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,48,51,Porzana carolina,Sora,0.9666,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,51,54,Porzana carolina,Sora,0.8924,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,57,60,Porzana carolina,Sora,0.6166,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,60,63,Porzana carolina,Sora,0.9866,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,75,78,Porzana carolina,Sora,0.9765,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,78,81,Porzana carolina,Sora,0.9704,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,81,84,Porzana carolina,Sora,0.9582,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,84,87,Porzana carolina,Sora,0.9422,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,87,90,Porzana carolina,Sora,0.9245,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,90,93,Porzana carolina,Sora,0.8987,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,93,96,Porzana carolina,Sora,0.9712,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,96,99,Porzana carolina,Sora,0.8739,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,99,102,Porzana carolina,Sora,0.6962,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,120,123,Porzana carolina,Sora,0.9754,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,123,126,Porzana carolina,Sora,0.9228,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,126,129,Porzana carolina,Sora,0.9522,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,129,132,Porzana carolina,Sora,0.6878,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,132,135,Porzana carolina,Sora,0.9488,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,135,138,Porzana carolina,Sora,0.9613,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,138,141,Porzana carolina,Sora,0.939,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,141,144,Porzana carolina,Sora,0.9317,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,144,147,Porzana carolina,Sora,0.9358,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,153,156,Porzana carolina,Sora,0.611,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,156,159,Porzana carolina,Sora,0.9335,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,159,162,Porzana carolina,Sora,0.8774,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,183,186,Porzana carolina,Sora,0.9569,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,186,189,Porzana carolina,Sora,0.7136,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,192,195,Porzana carolina,Sora,0.5605,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,201,204,Porzana carolina,Sora,0.586,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,204,207,Porzana carolina,Sora,0.9637,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,207,210,Porzana carolina,Sora,0.9545,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,210,213,Porzana carolina,Sora,0.9581,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,213,216,Porzana carolina,Sora,0.8041,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,243,246,Porzana carolina,Sora,0.9203,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,249,252,Porzana carolina,Sora,0.8916,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,264,267,Porzana carolina,Sora,0.9343,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,270,273,Porzana carolina,Sora,0.9784,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230609,23,279,282,Porzana carolina,Sora,0.6584,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230609_231500.wav
+WatsonCreek,2,7759,Mini,20230610,00,6,9,Porzana carolina,Sora,0.6202,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_000000.wav
+WatsonCreek,2,7759,Mini,20230610,01,216,219,Porzana carolina,Sora,0.5447,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_010000.wav
+WatsonCreek,2,7759,Mini,20230610,03,9,12,Chordeiles minor,Common Nighthawk,0.8669,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_031500.wav
+WatsonCreek,2,7759,Mini,20230610,03,15,18,Chordeiles minor,Common Nighthawk,0.8212,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_031500.wav
+WatsonCreek,2,7759,Mini,20230610,03,18,21,Chordeiles minor,Common Nighthawk,0.5509,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_031500.wav
+WatsonCreek,2,7759,Mini,20230610,03,291,294,Porzana carolina,Sora,0.6591,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_031500.wav
+WatsonCreek,2,7759,Mini,20230610,03,9,12,Chordeiles minor,Common Nighthawk,0.7957,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_033000.wav
+WatsonCreek,2,7759,Mini,20230610,03,36,39,Chordeiles minor,Common Nighthawk,0.8456,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_033000.wav
+WatsonCreek,2,7759,Mini,20230610,07,9,12,Vireo gilvus,Warbling Vireo,0.5013,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_071500.wav
+WatsonCreek,2,7759,Mini,20230610,07,153,156,Vireo gilvus,Warbling Vireo,0.5076,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_071500.wav
+WatsonCreek,2,7759,Mini,20230610,08,144,147,Vireo gilvus,Warbling Vireo,0.6104,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_084500.wav
+WatsonCreek,2,7759,Mini,20230610,09,24,27,Vireo gilvus,Warbling Vireo,0.5871,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_093000.wav
+WatsonCreek,2,7759,Mini,20230610,09,51,54,Vireo gilvus,Warbling Vireo,0.6011,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_094500.wav
+WatsonCreek,2,7759,Mini,20230610,09,285,288,Vireo gilvus,Warbling Vireo,0.6361,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230610_094500.wav
+WatsonCreek,2,7759,Mini,20230611,00,273,276,Rallus limicola,Virginia Rail,0.8725,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_004500.wav
+WatsonCreek,2,7759,Mini,20230611,02,108,111,Porzana carolina,Sora,0.8243,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_020000.wav
+WatsonCreek,2,7759,Mini,20230611,03,264,267,Chordeiles minor,Common Nighthawk,0.9697,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,270,273,Chordeiles minor,Common Nighthawk,0.9316,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,273,276,Chordeiles minor,Common Nighthawk,0.8981,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,276,279,Chordeiles minor,Common Nighthawk,0.8773,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,279,282,Chordeiles minor,Common Nighthawk,0.8994,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,285,288,Chordeiles minor,Common Nighthawk,0.7991,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,288,291,Chordeiles minor,Common Nighthawk,0.91,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,291,294,Chordeiles minor,Common Nighthawk,0.9951,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,294,297,Chordeiles minor,Common Nighthawk,0.9631,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,03,297,300,Chordeiles minor,Common Nighthawk,0.9467,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_030000.wav
+WatsonCreek,2,7759,Mini,20230611,06,54,57,Vireo gilvus,Warbling Vireo,0.5437,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_063000.wav
+WatsonCreek,2,7759,Mini,20230611,06,252,255,Vireo gilvus,Warbling Vireo,0.6252,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_063000.wav
+WatsonCreek,2,7759,Mini,20230611,08,222,225,Vireo gilvus,Warbling Vireo,0.6614,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_080000.wav
+WatsonCreek,2,7759,Mini,20230611,08,81,84,Vireo gilvus,Warbling Vireo,0.8403,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_081500.wav
+WatsonCreek,2,7759,Mini,20230611,08,96,99,Vireo gilvus,Warbling Vireo,0.6198,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_081500.wav
+WatsonCreek,2,7759,Mini,20230611,08,294,297,Vireo gilvus,Warbling Vireo,0.6102,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_081500.wav
+WatsonCreek,2,7759,Mini,20230611,08,12,15,Vireo gilvus,Warbling Vireo,0.6479,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_083000.wav
+WatsonCreek,2,7759,Mini,20230611,08,213,216,Vireo gilvus,Warbling Vireo,0.565,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_083000.wav
+WatsonCreek,2,7759,Mini,20230611,09,111,114,Vireo gilvus,Warbling Vireo,0.5025,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_091500.wav
+WatsonCreek,2,7759,Mini,20230611,09,246,249,Vireo gilvus,Warbling Vireo,0.5505,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230611_091500.wav
+WatsonCreek,2,7759,Mini,20230612,00,18,21,Porzana carolina,Sora,0.5422,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_001500.wav
+WatsonCreek,2,7759,Mini,20230612,01,15,18,Porzana carolina,Sora,0.6865,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_014500.wav
+WatsonCreek,2,7759,Mini,20230612,02,21,24,Porzana carolina,Sora,0.5857,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,02,42,45,Porzana carolina,Sora,0.6143,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,02,54,57,Porzana carolina,Sora,0.9001,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,02,60,63,Porzana carolina,Sora,0.8066,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,02,204,207,Porzana carolina,Sora,0.8397,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,02,219,222,Porzana carolina,Sora,0.7198,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,02,264,267,Porzana carolina,Sora,0.7973,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_021500.wav
+WatsonCreek,2,7759,Mini,20230612,03,120,123,Myiarchus crinitus,Great Crested Flycatcher,0.5739,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_030000.wav
+WatsonCreek,2,7759,Mini,20230612,03,261,264,Myiarchus crinitus,Great Crested Flycatcher,0.6006,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_030000.wav
+WatsonCreek,2,7759,Mini,20230612,07,234,237,Vireo gilvus,Warbling Vireo,0.6748,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_071500.wav
+WatsonCreek,2,7759,Mini,20230612,08,81,84,Vireo gilvus,Warbling Vireo,0.6975,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_081500.wav
+WatsonCreek,2,7759,Mini,20230612,08,159,162,Vireo gilvus,Warbling Vireo,0.6776,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_083000.wav
+WatsonCreek,2,7759,Mini,20230612,08,189,192,Vireo gilvus,Warbling Vireo,0.552,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_083000.wav
+WatsonCreek,2,7759,Mini,20230612,08,297,300,Vireo gilvus,Warbling Vireo,0.6106,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_083000.wav
+WatsonCreek,2,7759,Mini,20230612,08,72,75,Vireo gilvus,Warbling Vireo,0.7748,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_084500.wav
+WatsonCreek,2,7759,Mini,20230612,08,174,177,Vireo gilvus,Warbling Vireo,0.7451,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_084500.wav
+WatsonCreek,2,7759,Mini,20230612,08,180,183,Vireo gilvus,Warbling Vireo,0.621,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_084500.wav
+WatsonCreek,2,7759,Mini,20230612,09,96,99,Vireo gilvus,Warbling Vireo,0.7738,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_091500.wav
+WatsonCreek,2,7759,Mini,20230612,09,147,150,Vireo gilvus,Warbling Vireo,0.5025,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_091500.wav
+WatsonCreek,2,7759,Mini,20230612,09,177,180,Vireo gilvus,Warbling Vireo,0.5181,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_091500.wav
+WatsonCreek,2,7759,Mini,20230612,09,192,195,Vireo gilvus,Warbling Vireo,0.6471,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_091500.wav
+WatsonCreek,2,7759,Mini,20230612,09,294,297,Vireo gilvus,Warbling Vireo,0.6671,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_091500.wav
+WatsonCreek,2,7759,Mini,20230612,09,78,81,Vireo gilvus,Warbling Vireo,0.6762,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_093000.wav
+WatsonCreek,2,7759,Mini,20230612,09,195,198,Vireo gilvus,Warbling Vireo,0.5225,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230612_093000.wav
+WatsonCreek,2,7759,Mini,20230613,01,6,9,Rallus limicola,Virginia Rail,0.7504,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_010000.wav
+WatsonCreek,2,7759,Mini,20230613,05,222,225,Vireo gilvus,Warbling Vireo,0.5013,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_053000.wav
+WatsonCreek,2,7759,Mini,20230613,08,168,171,Vireo gilvus,Warbling Vireo,0.5002,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_080000.wav
+WatsonCreek,2,7759,Mini,20230613,08,180,183,Vireo gilvus,Warbling Vireo,0.6083,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_083000.wav
+WatsonCreek,2,7759,Mini,20230613,08,39,42,Vireo gilvus,Warbling Vireo,0.7042,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,99,102,Vireo gilvus,Warbling Vireo,0.657,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,129,132,Vireo gilvus,Warbling Vireo,0.7929,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,138,141,Vireo gilvus,Warbling Vireo,0.6844,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,147,150,Vireo gilvus,Warbling Vireo,0.5704,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,162,165,Vireo gilvus,Warbling Vireo,0.5346,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,189,192,Vireo gilvus,Warbling Vireo,0.5762,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,270,273,Vireo gilvus,Warbling Vireo,0.6036,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,08,276,279,Vireo gilvus,Warbling Vireo,0.5277,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_084500.wav
+WatsonCreek,2,7759,Mini,20230613,09,54,57,Vireo gilvus,Warbling Vireo,0.5035,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_090000.wav
+WatsonCreek,2,7759,Mini,20230613,09,60,63,Vireo gilvus,Warbling Vireo,0.8145,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_090000.wav
+WatsonCreek,2,7759,Mini,20230613,09,15,18,Vireo gilvus,Warbling Vireo,0.7265,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_091500.wav
+WatsonCreek,2,7759,Mini,20230613,09,195,198,Vireo gilvus,Warbling Vireo,0.6125,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_093000.wav
+WatsonCreek,2,7759,Mini,20230613,09,222,225,Vireo gilvus,Warbling Vireo,0.5785,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_093000.wav
+WatsonCreek,2,7759,Mini,20230613,09,261,264,Vireo gilvus,Warbling Vireo,0.515,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230613_094500.wav
+WatsonCreek,2,7759,Mini,20230614,00,117,120,Porzana carolina,Sora,0.7019,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_001500.wav
+WatsonCreek,2,7759,Mini,20230614,05,66,69,Vireo gilvus,Warbling Vireo,0.7192,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_050000.wav
+WatsonCreek,2,7759,Mini,20230614,05,33,36,Vireo gilvus,Warbling Vireo,0.6331,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,05,45,48,Vireo gilvus,Warbling Vireo,0.5372,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,05,63,66,Vireo gilvus,Warbling Vireo,0.5743,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,05,141,144,Vireo gilvus,Warbling Vireo,0.5236,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,05,147,150,Vireo gilvus,Warbling Vireo,0.5945,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,05,156,159,Vireo gilvus,Warbling Vireo,0.6422,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,05,168,171,Vireo gilvus,Warbling Vireo,0.5365,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_053000.wav
+WatsonCreek,2,7759,Mini,20230614,06,219,222,Vireo gilvus,Warbling Vireo,0.5555,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230614_064500.wav
+WatsonCreek,2,7759,Mini,20230615,03,0,3,Chordeiles minor,Common Nighthawk,0.9927,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_034500.wav
+WatsonCreek,2,7759,Mini,20230615,03,3,6,Chordeiles minor,Common Nighthawk,0.9493,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_034500.wav
+WatsonCreek,2,7759,Mini,20230615,06,0,3,Vireo gilvus,Warbling Vireo,0.8512,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_060000.wav
+WatsonCreek,2,7759,Mini,20230615,09,12,15,Vireo gilvus,Warbling Vireo,0.5438,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,138,141,Vireo gilvus,Warbling Vireo,0.5689,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,147,150,Vireo gilvus,Warbling Vireo,0.541,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,168,171,Vireo gilvus,Warbling Vireo,0.8857,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,180,183,Vireo gilvus,Warbling Vireo,0.5951,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,216,219,Vireo gilvus,Warbling Vireo,0.6546,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,258,261,Vireo gilvus,Warbling Vireo,0.512,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_090000.wav
+WatsonCreek,2,7759,Mini,20230615,09,165,168,Vireo gilvus,Warbling Vireo,0.5151,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_093000.wav
+WatsonCreek,2,7759,Mini,20230615,09,285,288,Vireo gilvus,Warbling Vireo,0.5213,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_093000.wav
+WatsonCreek,2,7759,Mini,20230615,09,48,51,Vireo gilvus,Warbling Vireo,0.5785,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_094500.wav
+WatsonCreek,2,7759,Mini,20230615,09,171,174,Vireo gilvus,Warbling Vireo,0.549,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_094500.wav
+WatsonCreek,2,7759,Mini,20230615,09,213,216,Vireo gilvus,Warbling Vireo,0.5902,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_094500.wav
+WatsonCreek,2,7759,Mini,20230615,09,237,240,Vireo gilvus,Warbling Vireo,0.6547,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230615_094500.wav
+WatsonCreek,2,7759,Mini,20230616,08,75,78,Vireo gilvus,Warbling Vireo,0.7768,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230616_080000.wav
+WatsonCreek,2,7759,Mini,20230616,08,117,120,Vireo gilvus,Warbling Vireo,0.7237,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230616_080000.wav
+WatsonCreek,2,7759,Mini,20230616,08,189,192,Vireo gilvus,Warbling Vireo,0.5724,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230616_080000.wav
+WatsonCreek,2,7759,Mini,20230616,08,252,255,Vireo gilvus,Warbling Vireo,0.5107,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230616_083000.wav
+WatsonCreek,2,7759,Mini,20230616,08,267,270,Vireo gilvus,Warbling Vireo,0.7697,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230616_083000.wav
+WatsonCreek,2,7759,Mini,20230616,08,243,246,Vireo gilvus,Warbling Vireo,0.6162,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230616_084500.wav
+WatsonCreek,2,7759,Mini,20230617,01,108,111,Podilymbus podiceps,Pied-billed Grebe,0.5909,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230617_011500.wav
+WatsonCreek,2,7759,Mini,20230617,07,87,90,Vireo gilvus,Warbling Vireo,0.6742,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230617_073000.wav
+WatsonCreek,2,7759,Mini,20230618,01,24,27,Porzana carolina,Sora,0.9263,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_011500.wav
+WatsonCreek,2,7759,Mini,20230618,05,153,156,Vireo gilvus,Warbling Vireo,0.6806,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_051500.wav
+WatsonCreek,2,7759,Mini,20230618,05,186,189,Vireo gilvus,Warbling Vireo,0.6195,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_051500.wav
+WatsonCreek,2,7759,Mini,20230618,05,192,195,Vireo gilvus,Warbling Vireo,0.7252,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_051500.wav
+WatsonCreek,2,7759,Mini,20230618,07,210,213,Vireo gilvus,Warbling Vireo,0.5646,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_074500.wav
+WatsonCreek,2,7759,Mini,20230618,08,243,246,Vireo gilvus,Warbling Vireo,0.5523,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_081500.wav
+WatsonCreek,2,7759,Mini,20230618,08,255,258,Vireo gilvus,Warbling Vireo,0.5153,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_081500.wav
+WatsonCreek,2,7759,Mini,20230618,08,264,267,Vireo gilvus,Warbling Vireo,0.6764,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_081500.wav
+WatsonCreek,2,7759,Mini,20230618,09,39,42,Vireo gilvus,Warbling Vireo,0.8287,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_090000.wav
+WatsonCreek,2,7759,Mini,20230618,09,69,72,Vireo gilvus,Warbling Vireo,0.97,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_090000.wav
+WatsonCreek,2,7759,Mini,20230618,09,78,81,Vireo gilvus,Warbling Vireo,0.6691,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_090000.wav
+WatsonCreek,2,7759,Mini,20230618,09,81,84,Vireo gilvus,Warbling Vireo,0.9861,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_090000.wav
+WatsonCreek,2,7759,Mini,20230618,09,87,90,Vireo gilvus,Warbling Vireo,0.9762,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230618_090000.wav
+WatsonCreek,2,7759,Mini,20230619,05,87,90,Vireo gilvus,Warbling Vireo,0.54,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230619_053000.wav
+WatsonCreek,2,7759,Mini,20230620,07,0,3,Vireo gilvus,Warbling Vireo,0.6143,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_071500.wav
+WatsonCreek,2,7759,Mini,20230620,07,12,15,Vireo gilvus,Warbling Vireo,0.5273,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_071500.wav
+WatsonCreek,2,7759,Mini,20230620,07,18,21,Vireo gilvus,Warbling Vireo,0.7106,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_071500.wav
+WatsonCreek,2,7759,Mini,20230620,07,33,36,Vireo gilvus,Warbling Vireo,0.5606,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_071500.wav
+WatsonCreek,2,7759,Mini,20230620,07,204,207,Vireo gilvus,Warbling Vireo,0.5647,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_073000.wav
+WatsonCreek,2,7759,Mini,20230620,07,282,285,Vireo gilvus,Warbling Vireo,0.6005,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_074500.wav
+WatsonCreek,2,7759,Mini,20230620,09,204,207,Vireo gilvus,Warbling Vireo,0.5844,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_090000.wav
+WatsonCreek,2,7759,Mini,20230620,22,66,69,Chordeiles minor,Common Nighthawk,0.7105,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_221500.wav
+WatsonCreek,2,7759,Mini,20230620,23,225,228,Porzana carolina,Sora,0.9043,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230620,23,234,237,Porzana carolina,Sora,0.6604,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230620,23,237,240,Porzana carolina,Sora,0.9046,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230620,23,246,249,Porzana carolina,Sora,0.9257,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230620,23,255,258,Porzana carolina,Sora,0.719,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230620,23,258,261,Porzana carolina,Sora,0.9382,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230620,23,279,282,Porzana carolina,Sora,0.5249,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230620_234500.wav
+WatsonCreek,2,7759,Mini,20230621,03,66,69,Chordeiles minor,Common Nighthawk,0.8852,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,69,72,Chordeiles minor,Common Nighthawk,0.929,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,75,78,Chordeiles minor,Common Nighthawk,0.6558,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,90,93,Chordeiles minor,Common Nighthawk,0.9668,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,93,96,Chordeiles minor,Common Nighthawk,0.7573,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,96,99,Chordeiles minor,Common Nighthawk,0.8544,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,99,102,Chordeiles minor,Common Nighthawk,0.9419,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,105,108,Chordeiles minor,Common Nighthawk,0.8282,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,108,111,Chordeiles minor,Common Nighthawk,0.9105,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,111,114,Chordeiles minor,Common Nighthawk,0.9348,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,135,138,Chordeiles minor,Common Nighthawk,0.9488,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,138,141,Chordeiles minor,Common Nighthawk,0.942,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,147,150,Chordeiles minor,Common Nighthawk,0.9629,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,153,156,Chordeiles minor,Common Nighthawk,0.8494,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,168,171,Chordeiles minor,Common Nighthawk,0.6463,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,03,171,174,Chordeiles minor,Common Nighthawk,0.8512,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_031500.wav
+WatsonCreek,2,7759,Mini,20230621,08,231,234,Vireo gilvus,Warbling Vireo,0.5656,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_083000.wav
+WatsonCreek,2,7759,Mini,20230621,08,237,240,Vireo gilvus,Warbling Vireo,0.9059,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_083000.wav
+WatsonCreek,2,7759,Mini,20230621,08,240,243,Vireo gilvus,Warbling Vireo,0.9456,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_083000.wav
+WatsonCreek,2,7759,Mini,20230621,08,273,276,Vireo gilvus,Warbling Vireo,0.5845,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_083000.wav
+WatsonCreek,2,7759,Mini,20230621,09,216,219,Vireo gilvus,Warbling Vireo,0.5623,G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_3\Watson Creek\ARU_7759 (Site 2)\Data\SMA07759_20230621_090000.wav

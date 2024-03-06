@@ -440,7 +440,8 @@ href="./data/cleaned/all/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td>11:11 - 12:40</td>
 <td><a
 href="./data/cleaned/all/TattonLake_1_6705_Mini.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/TattonLake_1_6705_Mini.csv">file</a></td>
 <td>Run in batch (below)</td>
 </tr>
 <tr class="odd">
@@ -452,7 +453,8 @@ href="./data/cleaned/all/TattonLake_1_6705_Mini.csv">file</a></td>
 <td>12:41 - 15:08</td>
 <td><a
 href="./data/cleaned/all/TattonLake_2_9633_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/TattonLake_2_9633_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -463,7 +465,8 @@ href="./data/cleaned/all/TattonLake_2_9633_BARLT.csv">file</a></td>
 <td>Dec.12</td>
 <td>16:56 - 19:28</td>
 <td><a href="./data/cleaned/all/Thaddus_1_9584_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/Thaddus_1_9584_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -474,7 +477,7 @@ href="./data/cleaned/all/TattonLake_2_9633_BARLT.csv">file</a></td>
 <td>Dec.12</td>
 <td>15:21 - 16:56</td>
 <td><a href="./data/cleaned/all/Thaddus_2_5976_Mini.csv">file</a></td>
-<td></td>
+<td><a href="./data/cleaned/focal/Thaddus_2_5976_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -486,7 +489,8 @@ href="./data/cleaned/all/TattonLake_2_9633_BARLT.csv">file</a></td>
 <td>21:06 - 23:28</td>
 <td><a
 href="./data/cleaned/all/WatsonCreek_1_9157_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/WatsonCreek_1_9157_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -498,7 +502,8 @@ href="./data/cleaned/all/WatsonCreek_1_9157_BARLT.csv">file</a></td>
 <td>19:40 - 21:07</td>
 <td><a
 href="./data/cleaned/all/WatsonCreek_2_7759_Mini.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/WatsonCreek_2_7759_Mini.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -534,7 +539,8 @@ href="./data/cleaned/all/WildhorseMeadow_2_9799_BARLT.csv">file</a></td>
 <td>4:11 - 6:31</td>
 <td><a
 href="./data/cleaned/all/WinthrowCreek_1_9065_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/WinthrowCreek_1_9065_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -546,7 +552,8 @@ href="./data/cleaned/all/WinthrowCreek_1_9065_BARLT.csv">file</a></td>
 <td>6:31 - 8:53</td>
 <td><a
 href="./data/cleaned/all/WinthrowCreek_2_9171_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/WinthrowCreek_2_9171_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 </tbody>
