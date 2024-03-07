@@ -1,6 +1,6 @@
 Working notes
 ================
-2024-03-04
+2024-03-07
 
 ### Dec. 1, 2023
 
@@ -50,3 +50,11 @@ Working notes
 
 - Report the issue and submit the data that I have to Birds Canada David
   Bradley
+
+### Mar. 7, 2024
+
+- Finished all the focal analysis! Yay!!!
+
+- Summarized the data into individual files for each site.
+
+- Summarized the data to one single big file for David

@@ -75,8 +75,8 @@ model version that used in the GUI is
 <col style="width: 3%" />
 <col style="width: 3%" />
 <col style="width: 8%" />
-<col style="width: 27%" />
 <col style="width: 26%" />
+<col style="width: 27%" />
 <col style="width: 9%" />
 </colgroup>
 <thead>
@@ -125,7 +125,8 @@ href="./data/cleaned/focal/AxeLake_1_9126_BARLT.csv">file</a></td>
 <td>10:19 - 12:32</td>
 <td><a
 href="./data/cleaned/all/BaptisteMeadow_1_9742_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/BaptisteMeadow_1_9742_BARLT.csv">file</a></td>
 <td>2 hr</td>
 </tr>
 <tr class="even">
@@ -137,7 +138,8 @@ href="./data/cleaned/all/BaptisteMeadow_1_9742_BARLT.csv">file</a></td>
 <td>22:40 - 9:00 (+1)</td>
 <td><a
 href="./data/cleaned/all/BaptisteMeadow_2_9441_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/BaptisteMeadow_2_9441_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -149,7 +151,8 @@ href="./data/cleaned/all/BaptisteMeadow_2_9441_BARLT.csv">file</a></td>
 <td>13:08 - 14:46</td>
 <td><a
 href="./data/cleaned/all/BigCreekControl_1_9089_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/BigCreekControl_1_9089_BARLT.csv">file</a></td>
 <td>1.5 hr</td>
 </tr>
 <tr class="even">
@@ -162,7 +165,8 @@ href="./data/cleaned/all/BigCreekControl_1_9089_BARLT.csv">file</a></td>
 <p>11:52</p></td>
 <td><a
 href="./data/cleaned/all/BigCreekControl_2_9515_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/BigCreekControl_2_9515_BARLT.csv">file</a></td>
 <td>1.5 hr</td>
 </tr>
 <tr class="odd">
@@ -291,7 +295,8 @@ href="./data/cleaned/focal/EnterpriseRoad_1_9270_BARLT.csv">file</a></td>
 <td>6:52 - 9:05</td>
 <td><a
 href="./data/cleaned/all/FiftynineCreek_1_9782_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/FiftynineCreek_1_9782_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -303,7 +308,8 @@ href="./data/cleaned/all/FiftynineCreek_1_9782_BARLT.csv">file</a></td>
 <td>4:37 - 6:51</td>
 <td><a
 href="./data/cleaned/all/FiftynineCreek_2_8990_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/FiftynineCreek_2_8990_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -315,7 +321,8 @@ href="./data/cleaned/all/FiftynineCreek_2_8990_BARLT.csv">file</a></td>
 <td>14:03 - 16:24</td>
 <td><a
 href="./data/cleaned/all/HelenaConservation_1_9235_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/HelenaConservation_1_9235_BARLT.csv">file</a></td>
 <td>Run in batch (below)</td>
 </tr>
 <tr class="odd">
@@ -327,7 +334,8 @@ href="./data/cleaned/all/HelenaConservation_1_9235_BARLT.csv">file</a></td>
 <td>11:16 - 14:02</td>
 <td><a
 href="./data/cleaned/all/HelenaConservation_2_9140_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/HelenaConservation_2_9140_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -416,7 +424,7 @@ href="./data/cleaned/focal/MurphyLake_2_7710_Mini.csv">file</a></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
-<td></td>
+<td>NA</td>
 <td>empty folder</td>
 </tr>
 <tr class="odd">
@@ -428,7 +436,8 @@ href="./data/cleaned/focal/MurphyLake_2_7710_Mini.csv">file</a></td>
 <td>3:25 - 5:28</td>
 <td><a
 href="./data/cleaned/all/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/PeteKitchenLake_2_9205_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -515,7 +524,8 @@ href="./data/cleaned/focal/WatsonCreek_2_7759_Mini.csv">file</a></td>
 <td>23:29 - 1:50 (+1)</td>
 <td><a
 href="./data/cleaned/all/WildhorseMeadow_1_9072_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/WildhorseMeadow_1_9072_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -527,7 +537,8 @@ href="./data/cleaned/all/WildhorseMeadow_1_9072_BARLT.csv">file</a></td>
 <td>1:50 - 4:10</td>
 <td><a
 href="./data/cleaned/all/WildhorseMeadow_2_9799_BARLT.csv">file</a></td>
-<td></td>
+<td><a
+href="./data/cleaned/focal/WildhorseMeadow_2_9799_BARLT.csv">file</a></td>
 <td></td>
 </tr>
 <tr class="even">

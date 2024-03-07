@@ -62,7 +62,7 @@ raw2clean <- function(site, location, aru_id, type, species_list){
 names <- list.files(here("data", "raw", "focal")) %>%
   str_split(pattern = "_")
 
-for (i in 1:length(names)) {
+for (i in 10:length(names)) {
   site <- names[[i]][1]
   location <- names[[i]][2]
   aru_id <- names[[i]][3]

@@ -1,0 +1,2 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+G:\Chilcotin_Cariboo_ARU_2023\focal_analysis_4\Helena Conservation\ARU_9140 (Site 2)\22651519_20230613_YellowRail2023 [+51.81132-121.64846]\00009140_22651519_20230613T020000-0700_REC [+51.81132-121.64846].wav,159.0,162.0,Cistothorus palustris,Marsh Wren,0.5332,0.0000,0.0000,-1,0,1.0,0.5,C:\Users\sunny541.stu\AppData\Local\Temp\684088f74cd800171d7d84116b36d9fc94d24255\focal_species_list_with_sci_name.txt,BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
