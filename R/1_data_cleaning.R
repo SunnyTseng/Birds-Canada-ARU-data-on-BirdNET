@@ -47,8 +47,8 @@ raw2clean <- function(site, location, aru_id, type, species_list){
              location = location,
              aru_id = aru_id,
              type = type,
-             date = filepath %>% str_split_i("SMA", i = 2) %>% str_split_i("_", i = 2),
-             hour = filepath %>% str_split_i("SMA", i = 2) %>% str_split_i("_", i = 3) %>% str_sub(start = 1, end = 2)) %>%
+             date = filepath %>% str_split_i("\\\\", i = -1) %>% str_split_i("_", i = 2),
+             hour = filepath %>% str_split_i("\\\\", i = -1) %>% str_split_i("_", i = 3) %>% str_sub(start = 1, end = 2)) %>%
       select(site, location, aru_id, type, date, hour, start, end, scientific_name, common_name, confidence, filepath)
   }
   
@@ -60,9 +60,10 @@ raw2clean <- function(site, location, aru_id, type, species_list){
 
 # parameters definition ---------------------------------------------------
 names <- list.files(here("data", "raw", "focal")) %>%
+  .[str_detect(., "Mini")] %>%
   str_split(pattern = "_")
 
-for (i in 10:length(names)) {
+for (i in 1:length(names)) {
   site <- names[[i]][1]
   location <- names[[i]][2]
   aru_id <- names[[i]][3]
